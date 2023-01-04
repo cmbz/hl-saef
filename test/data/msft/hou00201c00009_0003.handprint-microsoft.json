@@ -1,0 +1,1266 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": -0.1084,
+        "height": 2160,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              398,
+              251,
+              1247,
+              240,
+              1248,
+              312,
+              398,
+              322
+            ],
+            "text": "Washinglow Jan 14th 1664",
+            "words": [
+              {
+                "boundingBox": [
+                  406,
+                  251,
+                  769,
+                  247,
+                  767,
+                  321,
+                  402,
+                  322
+                ],
+                "confidence": 0.076,
+                "text": "Washinglow"
+              },
+              {
+                "boundingBox": [
+                  806,
+                  246,
+                  931,
+                  245,
+                  931,
+                  318,
+                  805,
+                  321
+                ],
+                "confidence": 0.041,
+                "text": "Jan"
+              },
+              {
+                "boundingBox": [
+                  964,
+                  244,
+                  1075,
+                  243,
+                  1076,
+                  315,
+                  964,
+                  318
+                ],
+                "confidence": 0.554,
+                "text": "14th"
+              },
+              {
+                "boundingBox": [
+                  1089,
+                  242,
+                  1243,
+                  240,
+                  1244,
+                  309,
+                  1090,
+                  314
+                ],
+                "confidence": 0.436,
+                "text": "1664"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              200,
+              581,
+              478,
+              592,
+              477,
+              670,
+              197,
+              661
+            ],
+            "text": "Dear Jur.",
+            "words": [
+              {
+                "boundingBox": [
+                  205,
+                  582,
+                  354,
+                  590,
+                  352,
+                  668,
+                  201,
+                  663
+                ],
+                "confidence": 0.421,
+                "text": "Dear"
+              },
+              {
+                "boundingBox": [
+                  370,
+                  590,
+                  477,
+                  594,
+                  477,
+                  670,
+                  368,
+                  668
+                ],
+                "confidence": 0.16,
+                "text": "Jur."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              456,
+              682,
+              1274,
+              678,
+              1275,
+              750,
+              456,
+              753
+            ],
+            "text": "am very much obliged",
+            "words": [
+              {
+                "boundingBox": [
+                  490,
+                  684,
+                  582,
+                  685,
+                  579,
+                  752,
+                  487,
+                  751
+                ],
+                "confidence": 0.098,
+                "text": "am"
+              },
+              {
+                "boundingBox": [
+                  648,
+                  686,
+                  779,
+                  686,
+                  778,
+                  753,
+                  645,
+                  753
+                ],
+                "confidence": 0.928,
+                "text": "very"
+              },
+              {
+                "boundingBox": [
+                  814,
+                  686,
+                  1003,
+                  684,
+                  1002,
+                  752,
+                  813,
+                  753
+                ],
+                "confidence": 0.388,
+                "text": "much"
+              },
+              {
+                "boundingBox": [
+                  1042,
+                  684,
+                  1265,
+                  679,
+                  1267,
+                  748,
+                  1042,
+                  752
+                ],
+                "confidence": 0.16,
+                "text": "obliged"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              181,
+              775,
+              1238,
+              775,
+              1238,
+              839,
+              181,
+              843
+            ],
+            "text": "by the prompt Rueduer of his",
+            "words": [
+              {
+                "boundingBox": [
+                  187,
+                  775,
+                  264,
+                  775,
+                  258,
+                  843,
+                  182,
+                  844
+                ],
+                "confidence": 0.773,
+                "text": "by"
+              },
+              {
+                "boundingBox": [
+                  305,
+                  776,
+                  405,
+                  776,
+                  401,
+                  841,
+                  300,
+                  842
+                ],
+                "confidence": 0.566,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  433,
+                  776,
+                  689,
+                  777,
+                  685,
+                  837,
+                  428,
+                  840
+                ],
+                "confidence": 0.197,
+                "text": "prompt"
+              },
+              {
+                "boundingBox": [
+                  725,
+                  777,
+                  1026,
+                  777,
+                  1024,
+                  836,
+                  721,
+                  837
+                ],
+                "confidence": 0.19,
+                "text": "Rueduer"
+              },
+              {
+                "boundingBox": [
+                  1049,
+                  777,
+                  1122,
+                  777,
+                  1120,
+                  836,
+                  1047,
+                  836
+                ],
+                "confidence": 0.95,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  1136,
+                  777,
+                  1238,
+                  777,
+                  1236,
+                  836,
+                  1134,
+                  836
+                ],
+                "confidence": 0.32,
+                "text": "his"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              190,
+              865,
+              1285,
+              861,
+              1285,
+              925,
+              190,
+              927
+            ],
+            "text": "Twee and yourself us complying",
+            "words": [
+              {
+                "boundingBox": [
+                  192,
+                  870,
+                  331,
+                  869,
+                  330,
+                  925,
+                  191,
+                  923
+                ],
+                "confidence": 0.097,
+                "text": "Twee"
+              },
+              {
+                "boundingBox": [
+                  397,
+                  869,
+                  527,
+                  869,
+                  525,
+                  927,
+                  396,
+                  926
+                ],
+                "confidence": 0.791,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  589,
+                  868,
+                  852,
+                  867,
+                  850,
+                  927,
+                  588,
+                  927
+                ],
+                "confidence": 0.398,
+                "text": "yourself"
+              },
+              {
+                "boundingBox": [
+                  876,
+                  866,
+                  953,
+                  866,
+                  951,
+                  927,
+                  874,
+                  927
+                ],
+                "confidence": 0.362,
+                "text": "us"
+              },
+              {
+                "boundingBox": [
+                  967,
+                  866,
+                  1286,
+                  862,
+                  1283,
+                  924,
+                  965,
+                  927
+                ],
+                "confidence": 0.405,
+                "text": "complying"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              192,
+              954,
+              775,
+              952,
+              776,
+              1007,
+              192,
+              1011
+            ],
+            "text": "with my request",
+            "words": [
+              {
+                "boundingBox": [
+                  197,
+                  955,
+                  338,
+                  954,
+                  336,
+                  1011,
+                  195,
+                  1012
+                ],
+                "confidence": 0.287,
+                "text": "with"
+              },
+              {
+                "boundingBox": [
+                  380,
+                  954,
+                  494,
+                  954,
+                  493,
+                  1010,
+                  378,
+                  1011
+                ],
+                "confidence": 0.875,
+                "text": "my"
+              },
+              {
+                "boundingBox": [
+                  516,
+                  954,
+                  767,
+                  952,
+                  768,
+                  1007,
+                  516,
+                  1009
+                ],
+                "confidence": 0.638,
+                "text": "request"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              343,
+              1032,
+              1350,
+              1025,
+              1350,
+              1093,
+              343,
+              1099
+            ],
+            "text": "I have received both the report",
+            "words": [
+              {
+                "boundingBox": [
+                  343,
+                  1034,
+                  381,
+                  1035,
+                  382,
+                  1099,
+                  345,
+                  1099
+                ],
+                "confidence": 0.956,
+                "text": "I"
+              },
+              {
+                "boundingBox": [
+                  428,
+                  1035,
+                  590,
+                  1037,
+                  591,
+                  1099,
+                  429,
+                  1099
+                ],
+                "confidence": 0.932,
+                "text": "have"
+              },
+              {
+                "boundingBox": [
+                  615,
+                  1037,
+                  867,
+                  1036,
+                  867,
+                  1098,
+                  616,
+                  1099
+                ],
+                "confidence": 0.038,
+                "text": "received"
+              },
+              {
+                "boundingBox": [
+                  888,
+                  1036,
+                  1042,
+                  1033,
+                  1042,
+                  1097,
+                  889,
+                  1098
+                ],
+                "confidence": 0.186,
+                "text": "both"
+              },
+              {
+                "boundingBox": [
+                  1054,
+                  1033,
+                  1169,
+                  1030,
+                  1170,
+                  1096,
+                  1055,
+                  1097
+                ],
+                "confidence": 0.837,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  1186,
+                  1030,
+                  1350,
+                  1025,
+                  1349,
+                  1094,
+                  1187,
+                  1096
+                ],
+                "confidence": 0.279,
+                "text": "report"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              190,
+              1123,
+              741,
+              1119,
+              742,
+              1183,
+              191,
+              1184
+            ],
+            "text": "and the Tribune.",
+            "words": [
+              {
+                "boundingBox": [
+                  193,
+                  1136,
+                  301,
+                  1128,
+                  299,
+                  1183,
+                  191,
+                  1184
+                ],
+                "confidence": 0.744,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  336,
+                  1126,
+                  432,
+                  1121,
+                  431,
+                  1183,
+                  334,
+                  1183
+                ],
+                "confidence": 0.931,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  474,
+                  1120,
+                  740,
+                  1123,
+                  740,
+                  1184,
+                  472,
+                  1183
+                ],
+                "confidence": 0.132,
+                "text": "Tribune."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              459,
+              1194,
+              1143,
+              1193,
+              1143,
+              1269,
+              459,
+              1270
+            ],
+            "text": "With cordial thanks",
+            "words": [
+              {
+                "boundingBox": [
+                  462,
+                  1199,
+                  611,
+                  1199,
+                  609,
+                  1268,
+                  459,
+                  1268
+                ],
+                "confidence": 0.422,
+                "text": "With"
+              },
+              {
+                "boundingBox": [
+                  652,
+                  1199,
+                  879,
+                  1197,
+                  879,
+                  1269,
+                  650,
+                  1268
+                ],
+                "confidence": 0.264,
+                "text": "cordial"
+              },
+              {
+                "boundingBox": [
+                  907,
+                  1197,
+                  1140,
+                  1193,
+                  1141,
+                  1270,
+                  907,
+                  1269
+                ],
+                "confidence": 0.11,
+                "text": "thanks"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              633,
+              1281,
+              1006,
+              1284,
+              1006,
+              1353,
+              633,
+              1350
+            ],
+            "text": "Songs Truly",
+            "words": [
+              {
+                "boundingBox": [
+                  633,
+                  1281,
+                  800,
+                  1284,
+                  801,
+                  1353,
+                  634,
+                  1350
+                ],
+                "confidence": 0.111,
+                "text": "Songs"
+              },
+              {
+                "boundingBox": [
+                  813,
+                  1284,
+                  1000,
+                  1284,
+                  1003,
+                  1353,
+                  815,
+                  1353
+                ],
+                "confidence": 0.488,
+                "text": "Truly"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              699,
+              1366,
+              1262,
+              1364,
+              1263,
+              1435,
+              699,
+              1437
+            ],
+            "text": "Francis 1. Daich,",
+            "words": [
+              {
+                "boundingBox": [
+                  701,
+                  1369,
+                  955,
+                  1367,
+                  954,
+                  1437,
+                  700,
+                  1437
+                ],
+                "confidence": 0.127,
+                "text": "Francis"
+              },
+              {
+                "boundingBox": [
+                  968,
+                  1366,
+                  1031,
+                  1366,
+                  1031,
+                  1437,
+                  968,
+                  1437
+                ],
+                "confidence": 0.691,
+                "text": "1."
+              },
+              {
+                "boundingBox": [
+                  1044,
+                  1366,
+                  1260,
+                  1364,
+                  1260,
+                  1437,
+                  1044,
+                  1437
+                ],
+                "confidence": 0.211,
+                "text": "Daich,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              737,
+              1453,
+              1353,
+              1455,
+              1352,
+              1529,
+              737,
+              1527
+            ],
+            "text": "Clerk of Com. on tor. hel.",
+            "words": [
+              {
+                "boundingBox": [
+                  738,
+                  1453,
+                  875,
+                  1457,
+                  874,
+                  1528,
+                  738,
+                  1523
+                ],
+                "confidence": 0.403,
+                "text": "Clerk"
+              },
+              {
+                "boundingBox": [
+                  889,
+                  1457,
+                  944,
+                  1458,
+                  943,
+                  1529,
+                  888,
+                  1528
+                ],
+                "confidence": 0.956,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  957,
+                  1458,
+                  1100,
+                  1459,
+                  1099,
+                  1530,
+                  956,
+                  1529
+                ],
+                "confidence": 0.342,
+                "text": "Com."
+              },
+              {
+                "boundingBox": [
+                  1114,
+                  1459,
+                  1160,
+                  1459,
+                  1158,
+                  1530,
+                  1112,
+                  1530
+                ],
+                "confidence": 0.958,
+                "text": "on"
+              },
+              {
+                "boundingBox": [
+                  1173,
+                  1459,
+                  1242,
+                  1458,
+                  1241,
+                  1529,
+                  1172,
+                  1530
+                ],
+                "confidence": 0.739,
+                "text": "tor."
+              },
+              {
+                "boundingBox": [
+                  1256,
+                  1458,
+                  1354,
+                  1455,
+                  1352,
+                  1526,
+                  1254,
+                  1528
+                ],
+                "confidence": 0.499,
+                "text": "hel."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              164,
+              1634,
+              866,
+              1636,
+              866,
+              1706,
+              164,
+              1705
+            ],
+            "text": "J. M. W. Serrurlou Esy",
+            "words": [
+              {
+                "boundingBox": [
+                  167,
+                  1635,
+                  218,
+                  1635,
+                  214,
+                  1705,
+                  164,
+                  1706
+                ],
+                "confidence": 0.712,
+                "text": "J."
+              },
+              {
+                "boundingBox": [
+                  232,
+                  1635,
+                  321,
+                  1635,
+                  316,
+                  1702,
+                  228,
+                  1704
+                ],
+                "confidence": 0.746,
+                "text": "M."
+              },
+              {
+                "boundingBox": [
+                  335,
+                  1635,
+                  428,
+                  1636,
+                  423,
+                  1700,
+                  330,
+                  1702
+                ],
+                "confidence": 0.928,
+                "text": "W."
+              },
+              {
+                "boundingBox": [
+                  442,
+                  1636,
+                  742,
+                  1639,
+                  734,
+                  1702,
+                  437,
+                  1700
+                ],
+                "confidence": 0.282,
+                "text": "Serrurlou"
+              },
+              {
+                "boundingBox": [
+                  761,
+                  1639,
+                  865,
+                  1641,
+                  856,
+                  1705,
+                  752,
+                  1702
+                ],
+                "confidence": 0.22,
+                "text": "Esy"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              177,
+              1722,
+              1027,
+              1723,
+              1027,
+              1789,
+              177,
+              1787
+            ],
+            "text": "Avier. Freeomend Jug. Com.",
+            "words": [
+              {
+                "boundingBox": [
+                  181,
+                  1725,
+                  401,
+                  1723,
+                  398,
+                  1785,
+                  178,
+                  1788
+                ],
+                "confidence": 0.22,
+                "text": "Avier."
+              },
+              {
+                "boundingBox": [
+                  417,
+                  1723,
+                  739,
+                  1724,
+                  735,
+                  1785,
+                  414,
+                  1785
+                ],
+                "confidence": 0.431,
+                "text": "Freeomend"
+              },
+              {
+                "boundingBox": [
+                  751,
+                  1724,
+                  885,
+                  1726,
+                  881,
+                  1787,
+                  748,
+                  1785
+                ],
+                "confidence": 0.555,
+                "text": "Jug."
+              },
+              {
+                "boundingBox": [
+                  897,
+                  1726,
+                  1028,
+                  1729,
+                  1024,
+                  1790,
+                  894,
+                  1787
+                ],
+                "confidence": 0.317,
+                "text": "Com."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              471,
+              1798,
+              644,
+              1802,
+              644,
+              1868,
+              469,
+              1865
+            ],
+            "text": "n. y.",
+            "words": [
+              {
+                "boundingBox": [
+                  473,
+                  1798,
+                  558,
+                  1799,
+                  557,
+                  1866,
+                  472,
+                  1865
+                ],
+                "confidence": 0.887,
+                "text": "n."
+              },
+              {
+                "boundingBox": [
+                  572,
+                  1800,
+                  644,
+                  1801,
+                  643,
+                  1868,
+                  570,
+                  1866
+                ],
+                "confidence": 0.746,
+                "text": "y."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              209,
+              1891,
+              1183,
+              1885,
+              1184,
+              1957,
+              209,
+              1961
+            ],
+            "text": "140 Second as. cor. of East gate.",
+            "words": [
+              {
+                "boundingBox": [
+                  214,
+                  1892,
+                  329,
+                  1893,
+                  325,
+                  1961,
+                  209,
+                  1960
+                ],
+                "confidence": 0.452,
+                "text": "140"
+              },
+              {
+                "boundingBox": [
+                  346,
+                  1893,
+                  560,
+                  1893,
+                  557,
+                  1961,
+                  343,
+                  1961
+                ],
+                "confidence": 0.286,
+                "text": "Second"
+              },
+              {
+                "boundingBox": [
+                  592,
+                  1893,
+                  703,
+                  1892,
+                  701,
+                  1961,
+                  589,
+                  1961
+                ],
+                "confidence": 0.386,
+                "text": "as."
+              },
+              {
+                "boundingBox": [
+                  716,
+                  1892,
+                  810,
+                  1891,
+                  808,
+                  1961,
+                  714,
+                  1961
+                ],
+                "confidence": 0.762,
+                "text": "cor."
+              },
+              {
+                "boundingBox": [
+                  823,
+                  1891,
+                  886,
+                  1890,
+                  884,
+                  1961,
+                  821,
+                  1961
+                ],
+                "confidence": 0.996,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  899,
+                  1890,
+                  1037,
+                  1888,
+                  1036,
+                  1959,
+                  897,
+                  1961
+                ],
+                "confidence": 0.5,
+                "text": "East"
+              },
+              {
+                "boundingBox": [
+                  1051,
+                  1888,
+                  1181,
+                  1885,
+                  1180,
+                  1957,
+                  1050,
+                  1959
+                ],
+                "confidence": 0.042,
+                "text": "gate."
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1380
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:44:44Z",
+  "lastUpdatedDateTime": "2021-10-12T11:44:45Z",
+  "status": "succeeded"
+}

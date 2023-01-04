@@ -1,0 +1,1693 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": 0.065,
+        "height": 1410,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              197,
+              134,
+              658,
+              139,
+              657,
+              194,
+              196,
+              189
+            ],
+            "text": "Per Mer. Broadwater",
+            "words": [
+              {
+                "boundingBox": [
+                  197,
+                  134,
+                  279,
+                  136,
+                  279,
+                  191,
+                  196,
+                  189
+                ],
+                "confidence": 0.164,
+                "text": "Per"
+              },
+              {
+                "boundingBox": [
+                  290,
+                  136,
+                  384,
+                  137,
+                  383,
+                  192,
+                  289,
+                  191
+                ],
+                "confidence": 0.661,
+                "text": "Mer."
+              },
+              {
+                "boundingBox": [
+                  394,
+                  138,
+                  659,
+                  139,
+                  658,
+                  194,
+                  394,
+                  192
+                ],
+                "confidence": 0.75,
+                "text": "Broadwater"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              820,
+              157,
+              927,
+              158,
+              926,
+              189,
+              820,
+              188
+            ],
+            "text": "(Days )",
+            "words": [
+              {
+                "boundingBox": [
+                  821,
+                  157,
+                  910,
+                  159,
+                  910,
+                  189,
+                  821,
+                  189
+                ],
+                "confidence": 0.247,
+                "text": "(Days"
+              },
+              {
+                "boundingBox": [
+                  916,
+                  159,
+                  927,
+                  159,
+                  927,
+                  189,
+                  916,
+                  189
+                ],
+                "confidence": 0.763,
+                "text": ")"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              593,
+              197,
+              1093,
+              199,
+              1093,
+              239,
+              593,
+              238
+            ],
+            "text": "Every Child is allound",
+            "words": [
+              {
+                "boundingBox": [
+                  594,
+                  199,
+                  709,
+                  198,
+                  711,
+                  239,
+                  596,
+                  239
+                ],
+                "confidence": 0.299,
+                "text": "Every"
+              },
+              {
+                "boundingBox": [
+                  717,
+                  198,
+                  843,
+                  198,
+                  845,
+                  238,
+                  719,
+                  239
+                ],
+                "confidence": 0.709,
+                "text": "Child"
+              },
+              {
+                "boundingBox": [
+                  877,
+                  199,
+                  924,
+                  199,
+                  926,
+                  238,
+                  879,
+                  238
+                ],
+                "confidence": 0.925,
+                "text": "is"
+              },
+              {
+                "boundingBox": [
+                  932,
+                  199,
+                  1066,
+                  202,
+                  1068,
+                  238,
+                  934,
+                  238
+                ],
+                "confidence": 0.307,
+                "text": "allound"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              192,
+              244,
+              1124,
+              245,
+              1123,
+              286,
+              192,
+              284
+            ],
+            "text": "to go to the goverment school, but the colored",
+            "words": [
+              {
+                "boundingBox": [
+                  194,
+                  245,
+                  223,
+                  245,
+                  222,
+                  284,
+                  193,
+                  283
+                ],
+                "confidence": 0.985,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  230,
+                  245,
+                  280,
+                  245,
+                  279,
+                  284,
+                  230,
+                  284
+                ],
+                "confidence": 0.986,
+                "text": "go"
+              },
+              {
+                "boundingBox": [
+                  288,
+                  245,
+                  330,
+                  245,
+                  329,
+                  285,
+                  287,
+                  284
+                ],
+                "confidence": 0.997,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  337,
+                  245,
+                  407,
+                  245,
+                  406,
+                  285,
+                  337,
+                  285
+                ],
+                "confidence": 0.923,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  424,
+                  245,
+                  645,
+                  245,
+                  645,
+                  286,
+                  424,
+                  285
+                ],
+                "confidence": 0.241,
+                "text": "goverment"
+              },
+              {
+                "boundingBox": [
+                  653,
+                  245,
+                  814,
+                  245,
+                  814,
+                  286,
+                  653,
+                  286
+                ],
+                "confidence": 0.038,
+                "text": "school,"
+              },
+              {
+                "boundingBox": [
+                  822,
+                  246,
+                  896,
+                  246,
+                  897,
+                  286,
+                  822,
+                  286
+                ],
+                "confidence": 0.806,
+                "text": "but"
+              },
+              {
+                "boundingBox": [
+                  904,
+                  246,
+                  966,
+                  246,
+                  966,
+                  286,
+                  904,
+                  286
+                ],
+                "confidence": 0.929,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  973,
+                  246,
+                  1097,
+                  247,
+                  1098,
+                  285,
+                  974,
+                  286
+                ],
+                "confidence": 0.318,
+                "text": "colored"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              185,
+              287,
+              1024,
+              287,
+              1024,
+              339,
+              185,
+              340
+            ],
+            "text": "people can have seperate schools if they",
+            "words": [
+              {
+                "boundingBox": [
+                  187,
+                  288,
+                  305,
+                  288,
+                  304,
+                  340,
+                  185,
+                  340
+                ],
+                "confidence": 0.266,
+                "text": "people"
+              },
+              {
+                "boundingBox": [
+                  315,
+                  288,
+                  404,
+                  288,
+                  403,
+                  341,
+                  314,
+                  340
+                ],
+                "confidence": 0.773,
+                "text": "can"
+              },
+              {
+                "boundingBox": [
+                  425,
+                  288,
+                  513,
+                  288,
+                  512,
+                  341,
+                  423,
+                  341
+                ],
+                "confidence": 0.358,
+                "text": "have"
+              },
+              {
+                "boundingBox": [
+                  523,
+                  288,
+                  697,
+                  288,
+                  696,
+                  341,
+                  522,
+                  341
+                ],
+                "confidence": 0.702,
+                "text": "seperate"
+              },
+              {
+                "boundingBox": [
+                  708,
+                  288,
+                  848,
+                  288,
+                  847,
+                  340,
+                  707,
+                  341
+                ],
+                "confidence": 0.331,
+                "text": "schools"
+              },
+              {
+                "boundingBox": [
+                  858,
+                  288,
+                  916,
+                  288,
+                  915,
+                  339,
+                  857,
+                  340
+                ],
+                "confidence": 0.488,
+                "text": "if"
+              },
+              {
+                "boundingBox": [
+                  933,
+                  288,
+                  1022,
+                  287,
+                  1021,
+                  339,
+                  932,
+                  339
+                ],
+                "confidence": 0.467,
+                "text": "they"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              177,
+              340,
+              1086,
+              339,
+              1086,
+              383,
+              177,
+              383
+            ],
+            "text": "desire in, and they have them in Chatham",
+            "words": [
+              {
+                "boundingBox": [
+                  178,
+                  344,
+                  284,
+                  344,
+                  283,
+                  380,
+                  178,
+                  379
+                ],
+                "confidence": 0.299,
+                "text": "desire"
+              },
+              {
+                "boundingBox": [
+                  309,
+                  344,
+                  381,
+                  344,
+                  380,
+                  382,
+                  308,
+                  381
+                ],
+                "confidence": 0.442,
+                "text": "in,"
+              },
+              {
+                "boundingBox": [
+                  404,
+                  344,
+                  483,
+                  344,
+                  482,
+                  383,
+                  403,
+                  382
+                ],
+                "confidence": 0.797,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  517,
+                  344,
+                  596,
+                  344,
+                  594,
+                  384,
+                  515,
+                  383
+                ],
+                "confidence": 0.737,
+                "text": "they"
+              },
+              {
+                "boundingBox": [
+                  612,
+                  344,
+                  707,
+                  343,
+                  705,
+                  384,
+                  610,
+                  384
+                ],
+                "confidence": 0.172,
+                "text": "have"
+              },
+              {
+                "boundingBox": [
+                  722,
+                  343,
+                  797,
+                  343,
+                  795,
+                  384,
+                  720,
+                  384
+                ],
+                "confidence": 0.556,
+                "text": "them"
+              },
+              {
+                "boundingBox": [
+                  833,
+                  342,
+                  876,
+                  342,
+                  874,
+                  384,
+                  831,
+                  384
+                ],
+                "confidence": 0.958,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  899,
+                  342,
+                  1059,
+                  340,
+                  1056,
+                  382,
+                  896,
+                  384
+                ],
+                "confidence": 0.171,
+                "text": "Chatham"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              177,
+              391,
+              1060,
+              391,
+              1059,
+              434,
+              177,
+              432
+            ],
+            "text": "and Dr leatherines, They were deceund by the",
+            "words": [
+              {
+                "boundingBox": [
+                  179,
+                  392,
+                  244,
+                  392,
+                  242,
+                  429,
+                  178,
+                  427
+                ],
+                "confidence": 0.958,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  271,
+                  392,
+                  327,
+                  392,
+                  326,
+                  431,
+                  270,
+                  429
+                ],
+                "confidence": 0.222,
+                "text": "Dr"
+              },
+              {
+                "boundingBox": [
+                  334,
+                  392,
+                  550,
+                  392,
+                  550,
+                  434,
+                  333,
+                  431
+                ],
+                "confidence": 0.482,
+                "text": "leatherines,"
+              },
+              {
+                "boundingBox": [
+                  560,
+                  392,
+                  646,
+                  392,
+                  645,
+                  434,
+                  559,
+                  434
+                ],
+                "confidence": 0.885,
+                "text": "They"
+              },
+              {
+                "boundingBox": [
+                  657,
+                  392,
+                  748,
+                  392,
+                  748,
+                  434,
+                  657,
+                  434
+                ],
+                "confidence": 0.12,
+                "text": "were"
+              },
+              {
+                "boundingBox": [
+                  757,
+                  392,
+                  908,
+                  391,
+                  908,
+                  433,
+                  757,
+                  434
+                ],
+                "confidence": 0.344,
+                "text": "deceund"
+              },
+              {
+                "boundingBox": [
+                  941,
+                  391,
+                  987,
+                  391,
+                  987,
+                  432,
+                  941,
+                  433
+                ],
+                "confidence": 0.992,
+                "text": "by"
+              },
+              {
+                "boundingBox": [
+                  994,
+                  391,
+                  1052,
+                  391,
+                  1053,
+                  431,
+                  994,
+                  432
+                ],
+                "confidence": 0.919,
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              174,
+              439,
+              1079,
+              439,
+              1079,
+              480,
+              174,
+              481
+            ],
+            "text": "aboletinests, who told them they could not",
+            "words": [
+              {
+                "boundingBox": [
+                  176,
+                  444,
+                  441,
+                  441,
+                  441,
+                  481,
+                  175,
+                  477
+                ],
+                "confidence": 0.224,
+                "text": "aboletinests,"
+              },
+              {
+                "boundingBox": [
+                  450,
+                  440,
+                  524,
+                  440,
+                  524,
+                  481,
+                  449,
+                  481
+                ],
+                "confidence": 0.995,
+                "text": "who"
+              },
+              {
+                "boundingBox": [
+                  530,
+                  440,
+                  604,
+                  440,
+                  604,
+                  481,
+                  530,
+                  481
+                ],
+                "confidence": 0.449,
+                "text": "told"
+              },
+              {
+                "boundingBox": [
+                  624,
+                  440,
+                  700,
+                  439,
+                  701,
+                  481,
+                  624,
+                  481
+                ],
+                "confidence": 0.263,
+                "text": "them"
+              },
+              {
+                "boundingBox": [
+                  740,
+                  439,
+                  820,
+                  439,
+                  821,
+                  481,
+                  740,
+                  481
+                ],
+                "confidence": 0.323,
+                "text": "they"
+              },
+              {
+                "boundingBox": [
+                  842,
+                  440,
+                  955,
+                  440,
+                  956,
+                  480,
+                  843,
+                  481
+                ],
+                "confidence": 0.278,
+                "text": "could"
+              },
+              {
+                "boundingBox": [
+                  975,
+                  440,
+                  1064,
+                  441,
+                  1065,
+                  479,
+                  976,
+                  480
+                ],
+                "confidence": 0.732,
+                "text": "not"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              166,
+              488,
+              1125,
+              488,
+              1125,
+              528,
+              166,
+              528
+            ],
+            "text": "School their children so will at the gomoment",
+            "words": [
+              {
+                "boundingBox": [
+                  166,
+                  490,
+                  296,
+                  490,
+                  297,
+                  528,
+                  167,
+                  526
+                ],
+                "confidence": 0.293,
+                "text": "School"
+              },
+              {
+                "boundingBox": [
+                  313,
+                  489,
+                  415,
+                  489,
+                  416,
+                  528,
+                  313,
+                  528
+                ],
+                "confidence": 0.77,
+                "text": "their"
+              },
+              {
+                "boundingBox": [
+                  434,
+                  489,
+                  610,
+                  489,
+                  611,
+                  529,
+                  435,
+                  529
+                ],
+                "confidence": 0.257,
+                "text": "children"
+              },
+              {
+                "boundingBox": [
+                  643,
+                  489,
+                  693,
+                  489,
+                  694,
+                  529,
+                  644,
+                  529
+                ],
+                "confidence": 0.232,
+                "text": "so"
+              },
+              {
+                "boundingBox": [
+                  707,
+                  489,
+                  800,
+                  489,
+                  801,
+                  529,
+                  708,
+                  529
+                ],
+                "confidence": 0.958,
+                "text": "will"
+              },
+              {
+                "boundingBox": [
+                  814,
+                  489,
+                  869,
+                  489,
+                  870,
+                  529,
+                  815,
+                  529
+                ],
+                "confidence": 0.801,
+                "text": "at"
+              },
+              {
+                "boundingBox": [
+                  878,
+                  489,
+                  940,
+                  489,
+                  941,
+                  528,
+                  879,
+                  529
+                ],
+                "confidence": 0.994,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  950,
+                  489,
+                  1124,
+                  489,
+                  1125,
+                  527,
+                  951,
+                  528
+                ],
+                "confidence": 0.187,
+                "text": "gomoment"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              153,
+              534,
+              1108,
+              535,
+              1107,
+              578,
+              153,
+              576
+            ],
+            "text": "Schools, and if they corned take them away,",
+            "words": [
+              {
+                "boundingBox": [
+                  156,
+                  543,
+                  297,
+                  538,
+                  295,
+                  576,
+                  153,
+                  577
+                ],
+                "confidence": 0.126,
+                "text": "Schools,"
+              },
+              {
+                "boundingBox": [
+                  311,
+                  538,
+                  394,
+                  536,
+                  392,
+                  576,
+                  309,
+                  576
+                ],
+                "confidence": 0.212,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  424,
+                  535,
+                  469,
+                  535,
+                  467,
+                  576,
+                  422,
+                  576
+                ],
+                "confidence": 0.994,
+                "text": "if"
+              },
+              {
+                "boundingBox": [
+                  482,
+                  535,
+                  573,
+                  534,
+                  571,
+                  575,
+                  481,
+                  576
+                ],
+                "confidence": 0.169,
+                "text": "they"
+              },
+              {
+                "boundingBox": [
+                  582,
+                  534,
+                  713,
+                  535,
+                  711,
+                  576,
+                  580,
+                  575
+                ],
+                "confidence": 0.154,
+                "text": "corned"
+              },
+              {
+                "boundingBox": [
+                  742,
+                  536,
+                  841,
+                  537,
+                  840,
+                  576,
+                  741,
+                  576
+                ],
+                "confidence": 0.87,
+                "text": "take"
+              },
+              {
+                "boundingBox": [
+                  864,
+                  538,
+                  947,
+                  541,
+                  947,
+                  577,
+                  863,
+                  576
+                ],
+                "confidence": 0.552,
+                "text": "them"
+              },
+              {
+                "boundingBox": [
+                  993,
+                  542,
+                  1108,
+                  548,
+                  1108,
+                  578,
+                  992,
+                  577
+                ],
+                "confidence": 0.87,
+                "text": "away,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              150,
+              581,
+              1084,
+              583,
+              1084,
+              626,
+              150,
+              622
+            ],
+            "text": "they worked teach them for less .- and they",
+            "words": [
+              {
+                "boundingBox": [
+                  155,
+                  586,
+                  229,
+                  584,
+                  225,
+                  623,
+                  151,
+                  623
+                ],
+                "confidence": 0.78,
+                "text": "they"
+              },
+              {
+                "boundingBox": [
+                  244,
+                  584,
+                  368,
+                  582,
+                  364,
+                  623,
+                  240,
+                  623
+                ],
+                "confidence": 0.124,
+                "text": "worked"
+              },
+              {
+                "boundingBox": [
+                  400,
+                  582,
+                  511,
+                  581,
+                  509,
+                  624,
+                  397,
+                  623
+                ],
+                "confidence": 0.87,
+                "text": "teach"
+              },
+              {
+                "boundingBox": [
+                  549,
+                  581,
+                  633,
+                  581,
+                  631,
+                  624,
+                  546,
+                  624
+                ],
+                "confidence": 0.75,
+                "text": "them"
+              },
+              {
+                "boundingBox": [
+                  673,
+                  582,
+                  742,
+                  582,
+                  741,
+                  625,
+                  671,
+                  624
+                ],
+                "confidence": 0.994,
+                "text": "for"
+              },
+              {
+                "boundingBox": [
+                  752,
+                  582,
+                  819,
+                  583,
+                  818,
+                  625,
+                  750,
+                  625
+                ],
+                "confidence": 0.87,
+                "text": "less"
+              },
+              {
+                "boundingBox": [
+                  826,
+                  583,
+                  863,
+                  584,
+                  863,
+                  625,
+                  825,
+                  625
+                ],
+                "confidence": 0.733,
+                "text": ".-"
+              },
+              {
+                "boundingBox": [
+                  888,
+                  585,
+                  982,
+                  587,
+                  982,
+                  626,
+                  888,
+                  625
+                ],
+                "confidence": 0.484,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  1005,
+                  587,
+                  1082,
+                  589,
+                  1082,
+                  627,
+                  1005,
+                  626
+                ],
+                "confidence": 0.348,
+                "text": "they"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              147,
+              629,
+              1086,
+              629,
+              1086,
+              675,
+              147,
+              674
+            ],
+            "text": "Charge them double. The colored child has",
+            "words": [
+              {
+                "boundingBox": [
+                  149,
+                  637,
+                  257,
+                  634,
+                  256,
+                  671,
+                  148,
+                  673
+                ],
+                "confidence": 0.554,
+                "text": "Charge"
+              },
+              {
+                "boundingBox": [
+                  271,
+                  634,
+                  356,
+                  632,
+                  355,
+                  670,
+                  270,
+                  671
+                ],
+                "confidence": 0.87,
+                "text": "them"
+              },
+              {
+                "boundingBox": [
+                  405,
+                  631,
+                  578,
+                  630,
+                  577,
+                  670,
+                  404,
+                  670
+                ],
+                "confidence": 0.85,
+                "text": "double."
+              },
+              {
+                "boundingBox": [
+                  605,
+                  630,
+                  682,
+                  629,
+                  682,
+                  670,
+                  605,
+                  670
+                ],
+                "confidence": 0.958,
+                "text": "The"
+              },
+              {
+                "boundingBox": [
+                  691,
+                  629,
+                  827,
+                  631,
+                  827,
+                  671,
+                  691,
+                  670
+                ],
+                "confidence": 0.446,
+                "text": "colored"
+              },
+              {
+                "boundingBox": [
+                  864,
+                  631,
+                  981,
+                  633,
+                  982,
+                  674,
+                  864,
+                  672
+                ],
+                "confidence": 0.729,
+                "text": "child"
+              },
+              {
+                "boundingBox": [
+                  1005,
+                  634,
+                  1086,
+                  636,
+                  1087,
+                  676,
+                  1005,
+                  674
+                ],
+                "confidence": 0.918,
+                "text": "has"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              129,
+              679,
+              1098,
+              680,
+              1098,
+              724,
+              129,
+              723
+            ],
+            "text": "Just the same treatment in the goverment",
+            "words": [
+              {
+                "boundingBox": [
+                  136,
+                  690,
+                  245,
+                  686,
+                  247,
+                  723,
+                  138,
+                  724
+                ],
+                "confidence": 0.152,
+                "text": "Just"
+              },
+              {
+                "boundingBox": [
+                  263,
+                  685,
+                  334,
+                  683,
+                  336,
+                  722,
+                  265,
+                  723
+                ],
+                "confidence": 0.931,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  345,
+                  683,
+                  472,
+                  681,
+                  474,
+                  721,
+                  348,
+                  722
+                ],
+                "confidence": 0.344,
+                "text": "same"
+              },
+              {
+                "boundingBox": [
+                  493,
+                  681,
+                  709,
+                  681,
+                  710,
+                  720,
+                  494,
+                  721
+                ],
+                "confidence": 0.127,
+                "text": "treatment"
+              },
+              {
+                "boundingBox": [
+                  731,
+                  681,
+                  778,
+                  682,
+                  779,
+                  720,
+                  733,
+                  720
+                ],
+                "confidence": 0.795,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  793,
+                  682,
+                  867,
+                  684,
+                  868,
+                  720,
+                  795,
+                  720
+                ],
+                "confidence": 0.931,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  876,
+                  685,
+                  1097,
+                  694,
+                  1098,
+                  721,
+                  877,
+                  720
+                ],
+                "confidence": 0.02,
+                "text": "goverment"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              139,
+              727,
+              1029,
+              732,
+              1029,
+              771,
+              138,
+              765
+            ],
+            "text": "schools as the white; there is no deception",
+            "words": [
+              {
+                "boundingBox": [
+                  139,
+                  730,
+                  283,
+                  728,
+                  284,
+                  766,
+                  139,
+                  763
+                ],
+                "confidence": 0.28,
+                "text": "schools"
+              },
+              {
+                "boundingBox": [
+                  294,
+                  728,
+                  344,
+                  728,
+                  344,
+                  767,
+                  294,
+                  766
+                ],
+                "confidence": 0.87,
+                "text": "as"
+              },
+              {
+                "boundingBox": [
+                  355,
+                  728,
+                  428,
+                  728,
+                  429,
+                  769,
+                  355,
+                  767
+                ],
+                "confidence": 0.96,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  448,
+                  728,
+                  597,
+                  729,
+                  598,
+                  770,
+                  448,
+                  769
+                ],
+                "confidence": 0.87,
+                "text": "white;"
+              },
+              {
+                "boundingBox": [
+                  606,
+                  729,
+                  696,
+                  730,
+                  697,
+                  771,
+                  606,
+                  770
+                ],
+                "confidence": 0.293,
+                "text": "there"
+              },
+              {
+                "boundingBox": [
+                  711,
+                  730,
+                  755,
+                  731,
+                  756,
+                  771,
+                  712,
+                  771
+                ],
+                "confidence": 0.984,
+                "text": "is"
+              },
+              {
+                "boundingBox": [
+                  772,
+                  731,
+                  832,
+                  732,
+                  834,
+                  771,
+                  773,
+                  771
+                ],
+                "confidence": 0.718,
+                "text": "no"
+              },
+              {
+                "boundingBox": [
+                  841,
+                  733,
+                  1010,
+                  737,
+                  1011,
+                  769,
+                  842,
+                  771
+                ],
+                "confidence": 0.261,
+                "text": "deception"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              147,
+              778,
+              381,
+              773,
+              382,
+              811,
+              148,
+              813
+            ],
+            "text": "about that",
+            "words": [
+              {
+                "boundingBox": [
+                  149,
+                  782,
+                  254,
+                  780,
+                  253,
+                  813,
+                  148,
+                  813
+                ],
+                "confidence": 0.358,
+                "text": "about"
+              },
+              {
+                "boundingBox": [
+                  268,
+                  779,
+                  363,
+                  775,
+                  363,
+                  813,
+                  268,
+                  813
+                ],
+                "confidence": 0.445,
+                "text": "that"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1138
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:46:10Z",
+  "lastUpdatedDateTime": "2021-10-12T11:46:11Z",
+  "status": "succeeded"
+}

@@ -1,0 +1,1938 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": 0.1976,
+        "height": 2093,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              324,
+              75,
+              992,
+              67,
+              993,
+              109,
+              324,
+              120
+            ],
+            "text": "Answered a dies, sech",
+            "words": [
+              {
+                "boundingBox": [
+                  329,
+                  75,
+                  595,
+                  73,
+                  594,
+                  117,
+                  327,
+                  120
+                ],
+                "confidence": 0.177,
+                "text": "Answered"
+              },
+              {
+                "boundingBox": [
+                  650,
+                  73,
+                  677,
+                  72,
+                  676,
+                  115,
+                  650,
+                  116
+                ],
+                "confidence": 0.739,
+                "text": "a"
+              },
+              {
+                "boundingBox": [
+                  718,
+                  72,
+                  837,
+                  70,
+                  838,
+                  110,
+                  717,
+                  114
+                ],
+                "confidence": 0.46,
+                "text": "dies,"
+              },
+              {
+                "boundingBox": [
+                  846,
+                  70,
+                  980,
+                  67,
+                  981,
+                  105,
+                  846,
+                  110
+                ],
+                "confidence": 0.34,
+                "text": "sech"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              748,
+              122,
+              1037,
+              112,
+              1038,
+              174,
+              748,
+              185
+            ],
+            "text": "gang 12",
+            "words": [
+              {
+                "boundingBox": [
+                  752,
+                  123,
+                  941,
+                  116,
+                  941,
+                  178,
+                  751,
+                  185
+                ],
+                "confidence": 0.295,
+                "text": "gang"
+              },
+              {
+                "boundingBox": [
+                  953,
+                  115,
+                  1027,
+                  113,
+                  1027,
+                  176,
+                  953,
+                  178
+                ],
+                "confidence": 0.915,
+                "text": "12"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              413,
+              278,
+              1186,
+              290,
+              1185,
+              371,
+              411,
+              365
+            ],
+            "text": "Committee Room bach.",
+            "words": [
+              {
+                "boundingBox": [
+                  419,
+                  279,
+                  728,
+                  293,
+                  727,
+                  371,
+                  416,
+                  365
+                ],
+                "confidence": 0.076,
+                "text": "Committee"
+              },
+              {
+                "boundingBox": [
+                  745,
+                  293,
+                  930,
+                  297,
+                  931,
+                  371,
+                  744,
+                  371
+                ],
+                "confidence": 0.444,
+                "text": "Room"
+              },
+              {
+                "boundingBox": [
+                  998,
+                  298,
+                  1179,
+                  298,
+                  1182,
+                  368,
+                  999,
+                  371
+                ],
+                "confidence": 0.234,
+                "text": "bach."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              659,
+              392,
+              1097,
+              386,
+              1099,
+              450,
+              659,
+              463
+            ],
+            "text": "Faut 11 2 1864",
+            "words": [
+              {
+                "boundingBox": [
+                  668,
+                  397,
+                  832,
+                  388,
+                  832,
+                  455,
+                  667,
+                  464
+                ],
+                "confidence": 0.658,
+                "text": "Faut"
+              },
+              {
+                "boundingBox": [
+                  845,
+                  387,
+                  876,
+                  387,
+                  876,
+                  453,
+                  845,
+                  455
+                ],
+                "confidence": 0.619,
+                "text": "11"
+              },
+              {
+                "boundingBox": [
+                  890,
+                  387,
+                  929,
+                  386,
+                  930,
+                  451,
+                  890,
+                  453
+                ],
+                "confidence": 0.391,
+                "text": "2"
+              },
+              {
+                "boundingBox": [
+                  947,
+                  386,
+                  1094,
+                  390,
+                  1095,
+                  447,
+                  948,
+                  451
+                ],
+                "confidence": 0.78,
+                "text": "1864"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              188,
+              542,
+              464,
+              548,
+              462,
+              626,
+              186,
+              620
+            ],
+            "text": "Dear Sir.",
+            "words": [
+              {
+                "boundingBox": [
+                  189,
+                  542,
+                  333,
+                  547,
+                  332,
+                  624,
+                  187,
+                  621
+                ],
+                "confidence": 0.731,
+                "text": "Dear"
+              },
+              {
+                "boundingBox": [
+                  349,
+                  547,
+                  464,
+                  549,
+                  464,
+                  627,
+                  347,
+                  624
+                ],
+                "confidence": 0.243,
+                "text": "Sir."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              450,
+              639,
+              1175,
+              641,
+              1175,
+              704,
+              450,
+              701
+            ],
+            "text": "I am very anxious to get",
+            "words": [
+              {
+                "boundingBox": [
+                  451,
+                  639,
+                  487,
+                  641,
+                  487,
+                  702,
+                  451,
+                  702
+                ],
+                "confidence": 0.99,
+                "text": "I"
+              },
+              {
+                "boundingBox": [
+                  524,
+                  643,
+                  594,
+                  646,
+                  594,
+                  702,
+                  524,
+                  702
+                ],
+                "confidence": 0.096,
+                "text": "am"
+              },
+              {
+                "boundingBox": [
+                  640,
+                  647,
+                  768,
+                  650,
+                  767,
+                  703,
+                  639,
+                  702
+                ],
+                "confidence": 0.812,
+                "text": "very"
+              },
+              {
+                "boundingBox": [
+                  780,
+                  650,
+                  1016,
+                  648,
+                  1014,
+                  703,
+                  779,
+                  703
+                ],
+                "confidence": 0.206,
+                "text": "anxious"
+              },
+              {
+                "boundingBox": [
+                  1028,
+                  648,
+                  1078,
+                  647,
+                  1076,
+                  704,
+                  1027,
+                  703
+                ],
+                "confidence": 0.994,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  1090,
+                  646,
+                  1173,
+                  643,
+                  1171,
+                  704,
+                  1088,
+                  704
+                ],
+                "confidence": 0.164,
+                "text": "get"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              147,
+              727,
+              1168,
+              725,
+              1168,
+              784,
+              147,
+              786
+            ],
+            "text": "Some information as to the state of the",
+            "words": [
+              {
+                "boundingBox": [
+                  149,
+                  732,
+                  271,
+                  730,
+                  269,
+                  784,
+                  147,
+                  783
+                ],
+                "confidence": 0.282,
+                "text": "Some"
+              },
+              {
+                "boundingBox": [
+                  311,
+                  730,
+                  624,
+                  727,
+                  622,
+                  786,
+                  309,
+                  784
+                ],
+                "confidence": 0.013,
+                "text": "information"
+              },
+              {
+                "boundingBox": [
+                  651,
+                  727,
+                  716,
+                  727,
+                  714,
+                  786,
+                  649,
+                  786
+                ],
+                "confidence": 0.956,
+                "text": "as"
+              },
+              {
+                "boundingBox": [
+                  726,
+                  726,
+                  767,
+                  726,
+                  765,
+                  786,
+                  724,
+                  786
+                ],
+                "confidence": 0.396,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  777,
+                  726,
+                  858,
+                  726,
+                  857,
+                  786,
+                  775,
+                  786
+                ],
+                "confidence": 0.634,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  869,
+                  726,
+                  994,
+                  726,
+                  993,
+                  786,
+                  867,
+                  786
+                ],
+                "confidence": 0.789,
+                "text": "state"
+              },
+              {
+                "boundingBox": [
+                  1005,
+                  726,
+                  1066,
+                  726,
+                  1064,
+                  786,
+                  1003,
+                  786
+                ],
+                "confidence": 0.086,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  1079,
+                  726,
+                  1169,
+                  726,
+                  1167,
+                  786,
+                  1078,
+                  786
+                ],
+                "confidence": 0.042,
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              142,
+              800,
+              1253,
+              807,
+              1253,
+              875,
+              141,
+              866
+            ],
+            "text": "Frecomen in Geil Banks Department,",
+            "words": [
+              {
+                "boundingBox": [
+                  143,
+                  800,
+                  393,
+                  801,
+                  392,
+                  868,
+                  142,
+                  866
+                ],
+                "confidence": 0.308,
+                "text": "Frecomen"
+              },
+              {
+                "boundingBox": [
+                  427,
+                  801,
+                  497,
+                  802,
+                  496,
+                  869,
+                  426,
+                  868
+                ],
+                "confidence": 0.959,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  514,
+                  802,
+                  661,
+                  803,
+                  660,
+                  871,
+                  513,
+                  869
+                ],
+                "confidence": 0.231,
+                "text": "Geil"
+              },
+              {
+                "boundingBox": [
+                  678,
+                  803,
+                  877,
+                  805,
+                  877,
+                  873,
+                  678,
+                  871
+                ],
+                "confidence": 0.205,
+                "text": "Banks"
+              },
+              {
+                "boundingBox": [
+                  890,
+                  805,
+                  1250,
+                  809,
+                  1251,
+                  876,
+                  890,
+                  873
+                ],
+                "confidence": 0.211,
+                "text": "Department,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              147,
+              893,
+              891,
+              897,
+              891,
+              960,
+              146,
+              952
+            ],
+            "text": "and the west generally.",
+            "words": [
+              {
+                "boundingBox": [
+                  149,
+                  898,
+                  259,
+                  895,
+                  256,
+                  953,
+                  147,
+                  953
+                ],
+                "confidence": 0.87,
+                "text": "and"
+              },
+              {
+                "boundingBox": [
+                  301,
+                  895,
+                  387,
+                  894,
+                  384,
+                  954,
+                  299,
+                  954
+                ],
+                "confidence": 0.959,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  433,
+                  894,
+                  572,
+                  894,
+                  569,
+                  956,
+                  431,
+                  955
+                ],
+                "confidence": 0.87,
+                "text": "west"
+              },
+              {
+                "boundingBox": [
+                  615,
+                  895,
+                  889,
+                  906,
+                  887,
+                  961,
+                  612,
+                  957
+                ],
+                "confidence": 0.255,
+                "text": "generally."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              284,
+              972,
+              1275,
+              976,
+              1275,
+              1042,
+              283,
+              1039
+            ],
+            "text": "If you have any copies of printed",
+            "words": [
+              {
+                "boundingBox": [
+                  290,
+                  973,
+                  359,
+                  975,
+                  357,
+                  1037,
+                  287,
+                  1035
+                ],
+                "confidence": 0.87,
+                "text": "If"
+              },
+              {
+                "boundingBox": [
+                  392,
+                  977,
+                  494,
+                  980,
+                  492,
+                  1040,
+                  390,
+                  1038
+                ],
+                "confidence": 0.998,
+                "text": "you"
+              },
+              {
+                "boundingBox": [
+                  527,
+                  980,
+                  675,
+                  983,
+                  673,
+                  1042,
+                  525,
+                  1040
+                ],
+                "confidence": 0.994,
+                "text": "have"
+              },
+              {
+                "boundingBox": [
+                  703,
+                  983,
+                  826,
+                  984,
+                  825,
+                  1042,
+                  702,
+                  1042
+                ],
+                "confidence": 0.555,
+                "text": "any"
+              },
+              {
+                "boundingBox": [
+                  851,
+                  984,
+                  1010,
+                  983,
+                  1010,
+                  1042,
+                  850,
+                  1042
+                ],
+                "confidence": 0.295,
+                "text": "copies"
+              },
+              {
+                "boundingBox": [
+                  1023,
+                  983,
+                  1084,
+                  982,
+                  1084,
+                  1041,
+                  1023,
+                  1042
+                ],
+                "confidence": 0.96,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  1096,
+                  982,
+                  1273,
+                  977,
+                  1274,
+                  1038,
+                  1097,
+                  1041
+                ],
+                "confidence": 0.272,
+                "text": "printed"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              151,
+              1055,
+              1229,
+              1058,
+              1229,
+              1126,
+              151,
+              1124
+            ],
+            "text": "reports clouded for circulation, and",
+            "words": [
+              {
+                "boundingBox": [
+                  151,
+                  1055,
+                  367,
+                  1057,
+                  367,
+                  1126,
+                  152,
+                  1126
+                ],
+                "confidence": 0.547,
+                "text": "reports"
+              },
+              {
+                "boundingBox": [
+                  390,
+                  1057,
+                  634,
+                  1059,
+                  635,
+                  1126,
+                  390,
+                  1126
+                ],
+                "confidence": 0.113,
+                "text": "clouded"
+              },
+              {
+                "boundingBox": [
+                  648,
+                  1059,
+                  713,
+                  1060,
+                  714,
+                  1126,
+                  649,
+                  1126
+                ],
+                "confidence": 0.588,
+                "text": "for"
+              },
+              {
+                "boundingBox": [
+                  727,
+                  1060,
+                  1045,
+                  1062,
+                  1046,
+                  1126,
+                  727,
+                  1126
+                ],
+                "confidence": 0.313,
+                "text": "circulation,"
+              },
+              {
+                "boundingBox": [
+                  1059,
+                  1062,
+                  1188,
+                  1062,
+                  1189,
+                  1125,
+                  1060,
+                  1126
+                ],
+                "confidence": 0.93,
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              159,
+              1149,
+              1255,
+              1143,
+              1255,
+              1197,
+              159,
+              1202
+            ],
+            "text": "would unclose me one under Cover to",
+            "words": [
+              {
+                "boundingBox": [
+                  160,
+                  1150,
+                  322,
+                  1151,
+                  321,
+                  1202,
+                  160,
+                  1202
+                ],
+                "confidence": 0.089,
+                "text": "would"
+              },
+              {
+                "boundingBox": [
+                  369,
+                  1151,
+                  558,
+                  1151,
+                  558,
+                  1202,
+                  369,
+                  1202
+                ],
+                "confidence": 0.19,
+                "text": "unclose"
+              },
+              {
+                "boundingBox": [
+                  585,
+                  1151,
+                  684,
+                  1151,
+                  683,
+                  1201,
+                  585,
+                  1202
+                ],
+                "confidence": 0.739,
+                "text": "me"
+              },
+              {
+                "boundingBox": [
+                  707,
+                  1151,
+                  802,
+                  1150,
+                  802,
+                  1201,
+                  707,
+                  1201
+                ],
+                "confidence": 0.644,
+                "text": "one"
+              },
+              {
+                "boundingBox": [
+                  826,
+                  1150,
+                  998,
+                  1148,
+                  998,
+                  1199,
+                  826,
+                  1200
+                ],
+                "confidence": 0.758,
+                "text": "under"
+              },
+              {
+                "boundingBox": [
+                  1011,
+                  1148,
+                  1164,
+                  1145,
+                  1164,
+                  1197,
+                  1012,
+                  1199
+                ],
+                "confidence": 0.382,
+                "text": "Cover"
+              },
+              {
+                "boundingBox": [
+                  1187,
+                  1145,
+                  1248,
+                  1144,
+                  1249,
+                  1196,
+                  1188,
+                  1197
+                ],
+                "confidence": 0.808,
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              166,
+              1223,
+              1281,
+              1230,
+              1280,
+              1290,
+              166,
+              1286
+            ],
+            "text": "Senator Sucuver, or if you courts heftner",
+            "words": [
+              {
+                "boundingBox": [
+                  169,
+                  1223,
+                  388,
+                  1227,
+                  387,
+                  1288,
+                  167,
+                  1283
+                ],
+                "confidence": 0.243,
+                "text": "Senator"
+              },
+              {
+                "boundingBox": [
+                  400,
+                  1227,
+                  659,
+                  1231,
+                  659,
+                  1290,
+                  399,
+                  1288
+                ],
+                "confidence": 0.315,
+                "text": "Sucuver,"
+              },
+              {
+                "boundingBox": [
+                  671,
+                  1232,
+                  734,
+                  1232,
+                  734,
+                  1290,
+                  671,
+                  1290
+                ],
+                "confidence": 0.772,
+                "text": "or"
+              },
+              {
+                "boundingBox": [
+                  746,
+                  1232,
+                  813,
+                  1233,
+                  813,
+                  1290,
+                  746,
+                  1290
+                ],
+                "confidence": 0.995,
+                "text": "if"
+              },
+              {
+                "boundingBox": [
+                  832,
+                  1233,
+                  931,
+                  1234,
+                  932,
+                  1290,
+                  833,
+                  1290
+                ],
+                "confidence": 0.958,
+                "text": "you"
+              },
+              {
+                "boundingBox": [
+                  942,
+                  1235,
+                  1088,
+                  1236,
+                  1089,
+                  1288,
+                  943,
+                  1290
+                ],
+                "confidence": 0.144,
+                "text": "courts"
+              },
+              {
+                "boundingBox": [
+                  1100,
+                  1236,
+                  1278,
+                  1237,
+                  1280,
+                  1284,
+                  1101,
+                  1288
+                ],
+                "confidence": 0.151,
+                "text": "heftner"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              161,
+              1313,
+              1221,
+              1319,
+              1220,
+              1379,
+              160,
+              1368
+            ],
+            "text": "me where It could can procure aury",
+            "words": [
+              {
+                "boundingBox": [
+                  163,
+                  1321,
+                  243,
+                  1318,
+                  241,
+                  1368,
+                  160,
+                  1368
+                ],
+                "confidence": 0.476,
+                "text": "me"
+              },
+              {
+                "boundingBox": [
+                  252,
+                  1318,
+                  413,
+                  1314,
+                  411,
+                  1367,
+                  250,
+                  1368
+                ],
+                "confidence": 0.894,
+                "text": "where"
+              },
+              {
+                "boundingBox": [
+                  457,
+                  1314,
+                  531,
+                  1313,
+                  530,
+                  1368,
+                  455,
+                  1367
+                ],
+                "confidence": 0.459,
+                "text": "It"
+              },
+              {
+                "boundingBox": [
+                  559,
+                  1313,
+                  708,
+                  1314,
+                  707,
+                  1370,
+                  558,
+                  1368
+                ],
+                "confidence": 0.058,
+                "text": "could"
+              },
+              {
+                "boundingBox": [
+                  721,
+                  1314,
+                  814,
+                  1316,
+                  812,
+                  1371,
+                  719,
+                  1370
+                ],
+                "confidence": 0.449,
+                "text": "can"
+              },
+              {
+                "boundingBox": [
+                  842,
+                  1317,
+                  1047,
+                  1323,
+                  1046,
+                  1376,
+                  840,
+                  1372
+                ],
+                "confidence": 0.733,
+                "text": "procure"
+              },
+              {
+                "boundingBox": [
+                  1056,
+                  1324,
+                  1205,
+                  1331,
+                  1204,
+                  1380,
+                  1055,
+                  1376
+                ],
+                "confidence": 0.306,
+                "text": "aury"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              143,
+              1398,
+              1299,
+              1399,
+              1299,
+              1458,
+              143,
+              1454
+            ],
+            "text": "printer documents relating to the subject",
+            "words": [
+              {
+                "boundingBox": [
+                  148,
+                  1400,
+                  348,
+                  1399,
+                  346,
+                  1453,
+                  146,
+                  1451
+                ],
+                "confidence": 0.063,
+                "text": "printer"
+              },
+              {
+                "boundingBox": [
+                  371,
+                  1399,
+                  702,
+                  1398,
+                  700,
+                  1455,
+                  369,
+                  1453
+                ],
+                "confidence": 0.223,
+                "text": "documents"
+              },
+              {
+                "boundingBox": [
+                  715,
+                  1398,
+                  939,
+                  1398,
+                  937,
+                  1457,
+                  713,
+                  1456
+                ],
+                "confidence": 0.375,
+                "text": "relating"
+              },
+              {
+                "boundingBox": [
+                  949,
+                  1398,
+                  995,
+                  1399,
+                  994,
+                  1458,
+                  947,
+                  1457
+                ],
+                "confidence": 0.87,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  1005,
+                  1399,
+                  1082,
+                  1399,
+                  1080,
+                  1458,
+                  1004,
+                  1458
+                ],
+                "confidence": 0.91,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  1092,
+                  1399,
+                  1289,
+                  1400,
+                  1287,
+                  1459,
+                  1090,
+                  1458
+                ],
+                "confidence": 0.069,
+                "text": "subject"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              162,
+              1482,
+              1270,
+              1482,
+              1270,
+              1540,
+              162,
+              1541
+            ],
+            "text": "you will confer agreat farer upon",
+            "words": [
+              {
+                "boundingBox": [
+                  163,
+                  1490,
+                  240,
+                  1489,
+                  241,
+                  1536,
+                  163,
+                  1534
+                ],
+                "confidence": 0.998,
+                "text": "you"
+              },
+              {
+                "boundingBox": [
+                  278,
+                  1488,
+                  424,
+                  1486,
+                  424,
+                  1539,
+                  279,
+                  1537
+                ],
+                "confidence": 0.932,
+                "text": "will"
+              },
+              {
+                "boundingBox": [
+                  468,
+                  1485,
+                  660,
+                  1483,
+                  660,
+                  1541,
+                  468,
+                  1540
+                ],
+                "confidence": 0.629,
+                "text": "confer"
+              },
+              {
+                "boundingBox": [
+                  686,
+                  1483,
+                  884,
+                  1482,
+                  885,
+                  1542,
+                  687,
+                  1542
+                ],
+                "confidence": 0.059,
+                "text": "agreat"
+              },
+              {
+                "boundingBox": [
+                  902,
+                  1482,
+                  1062,
+                  1482,
+                  1063,
+                  1542,
+                  902,
+                  1542
+                ],
+                "confidence": 0.541,
+                "text": "farer"
+              },
+              {
+                "boundingBox": [
+                  1088,
+                  1482,
+                  1245,
+                  1483,
+                  1246,
+                  1540,
+                  1089,
+                  1542
+                ],
+                "confidence": 0.204,
+                "text": "upon"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              594,
+              1559,
+              1173,
+              1555,
+              1174,
+              1618,
+              594,
+              1621
+            ],
+            "text": "Yourd with respect",
+            "words": [
+              {
+                "boundingBox": [
+                  596,
+                  1559,
+                  735,
+                  1560,
+                  734,
+                  1621,
+                  595,
+                  1620
+                ],
+                "confidence": 0.734,
+                "text": "Yourd"
+              },
+              {
+                "boundingBox": [
+                  767,
+                  1560,
+                  903,
+                  1559,
+                  902,
+                  1621,
+                  766,
+                  1621
+                ],
+                "confidence": 0.87,
+                "text": "with"
+              },
+              {
+                "boundingBox": [
+                  915,
+                  1559,
+                  1147,
+                  1556,
+                  1146,
+                  1618,
+                  914,
+                  1621
+                ],
+                "confidence": 0.659,
+                "text": "respect"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              611,
+              1637,
+              1159,
+              1634,
+              1160,
+              1701,
+              611,
+              1704
+            ],
+            "text": "Francii V. Balche",
+            "words": [
+              {
+                "boundingBox": [
+                  614,
+                  1640,
+                  828,
+                  1636,
+                  829,
+                  1704,
+                  614,
+                  1704
+                ],
+                "confidence": 0.342,
+                "text": "Francii"
+              },
+              {
+                "boundingBox": [
+                  841,
+                  1636,
+                  912,
+                  1635,
+                  913,
+                  1704,
+                  842,
+                  1704
+                ],
+                "confidence": 0.765,
+                "text": "V."
+              },
+              {
+                "boundingBox": [
+                  925,
+                  1635,
+                  1157,
+                  1634,
+                  1159,
+                  1702,
+                  926,
+                  1704
+                ],
+                "confidence": 0.461,
+                "text": "Balche"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              143,
+              1777,
+              793,
+              1804,
+              790,
+              1881,
+              140,
+              1864
+            ],
+            "text": "Moved Dale Noen Esg/",
+            "words": [
+              {
+                "boundingBox": [
+                  145,
+                  1778,
+                  329,
+                  1785,
+                  325,
+                  1871,
+                  140,
+                  1866
+                ],
+                "confidence": 0.392,
+                "text": "Moved"
+              },
+              {
+                "boundingBox": [
+                  347,
+                  1786,
+                  492,
+                  1794,
+                  488,
+                  1874,
+                  343,
+                  1871
+                ],
+                "confidence": 0.87,
+                "text": "Dale"
+              },
+              {
+                "boundingBox": [
+                  509,
+                  1796,
+                  654,
+                  1805,
+                  651,
+                  1878,
+                  506,
+                  1875
+                ],
+                "confidence": 0.19,
+                "text": "Noen"
+              },
+              {
+                "boundingBox": [
+                  672,
+                  1807,
+                  789,
+                  1816,
+                  786,
+                  1881,
+                  668,
+                  1878
+                ],
+                "confidence": 0.236,
+                "text": "Esg/"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              588,
+              1718,
+              1225,
+              1716,
+              1225,
+              1783,
+              588,
+              1787
+            ],
+            "text": "Qerh of Com, on tro tel.",
+            "words": [
+              {
+                "boundingBox": [
+                  594,
+                  1719,
+                  729,
+                  1723,
+                  725,
+                  1787,
+                  589,
+                  1786
+                ],
+                "confidence": 0.746,
+                "text": "Qerh"
+              },
+              {
+                "boundingBox": [
+                  742,
+                  1723,
+                  786,
+                  1724,
+                  782,
+                  1787,
+                  738,
+                  1787
+                ],
+                "confidence": 0.747,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  799,
+                  1724,
+                  908,
+                  1724,
+                  906,
+                  1787,
+                  795,
+                  1787
+                ],
+                "confidence": 0.359,
+                "text": "Com,"
+              },
+              {
+                "boundingBox": [
+                  921,
+                  1724,
+                  983,
+                  1723,
+                  981,
+                  1786,
+                  919,
+                  1787
+                ],
+                "confidence": 0.931,
+                "text": "on"
+              },
+              {
+                "boundingBox": [
+                  996,
+                  1723,
+                  1084,
+                  1721,
+                  1083,
+                  1785,
+                  994,
+                  1786
+                ],
+                "confidence": 0.401,
+                "text": "tro"
+              },
+              {
+                "boundingBox": [
+                  1097,
+                  1721,
+                  1225,
+                  1716,
+                  1225,
+                  1781,
+                  1096,
+                  1784
+                ],
+                "confidence": 0.425,
+                "text": "tel."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              182,
+              1881,
+              848,
+              1893,
+              847,
+              1955,
+              181,
+              1948
+            ],
+            "text": "Frecomens Jugs. low.",
+            "words": [
+              {
+                "boundingBox": [
+                  184,
+                  1882,
+                  470,
+                  1890,
+                  469,
+                  1955,
+                  182,
+                  1940
+                ],
+                "confidence": 0.35,
+                "text": "Frecomens"
+              },
+              {
+                "boundingBox": [
+                  489,
+                  1890,
+                  658,
+                  1894,
+                  657,
+                  1954,
+                  488,
+                  1955
+                ],
+                "confidence": 0.271,
+                "text": "Jugs."
+              },
+              {
+                "boundingBox": [
+                  669,
+                  1894,
+                  847,
+                  1898,
+                  847,
+                  1946,
+                  669,
+                  1954
+                ],
+                "confidence": 0.214,
+                "text": "low."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              332,
+              1956,
+              630,
+              1961,
+              629,
+              2028,
+              331,
+              2023
+            ],
+            "text": "new York",
+            "words": [
+              {
+                "boundingBox": [
+                  336,
+                  1957,
+                  437,
+                  1959,
+                  437,
+                  2027,
+                  335,
+                  2024
+                ],
+                "confidence": 0.87,
+                "text": "new"
+              },
+              {
+                "boundingBox": [
+                  477,
+                  1960,
+                  614,
+                  1962,
+                  614,
+                  2028,
+                  477,
+                  2027
+                ],
+                "confidence": 0.047,
+                "text": "York"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1325
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:44:17Z",
+  "lastUpdatedDateTime": "2021-10-12T11:44:18Z",
+  "status": "succeeded"
+}

@@ -1,0 +1,160 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": 1.4237,
+        "height": 2258,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              859,
+              55,
+              1259,
+              58,
+              1259,
+              125,
+              858,
+              121
+            ],
+            "text": "GA. V. Balch",
+            "words": [
+              {
+                "boundingBox": [
+                  860,
+                  56,
+                  928,
+                  56,
+                  927,
+                  121,
+                  858,
+                  122
+                ],
+                "confidence": 0.736,
+                "text": "GA."
+              },
+              {
+                "boundingBox": [
+                  941,
+                  56,
+                  1006,
+                  56,
+                  1005,
+                  121,
+                  940,
+                  121
+                ],
+                "confidence": 0.931,
+                "text": "V."
+              },
+              {
+                "boundingBox": [
+                  1019,
+                  56,
+                  1223,
+                  59,
+                  1223,
+                  125,
+                  1018,
+                  121
+                ],
+                "confidence": 0.87,
+                "text": "Balch"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              945,
+              152,
+              1287,
+              162,
+              1286,
+              232,
+              944,
+              225
+            ],
+            "text": "Jan. 14 - 64",
+            "words": [
+              {
+                "boundingBox": [
+                  946,
+                  153,
+                  1065,
+                  156,
+                  1064,
+                  228,
+                  944,
+                  226
+                ],
+                "confidence": 0.731,
+                "text": "Jan."
+              },
+              {
+                "boundingBox": [
+                  1080,
+                  157,
+                  1147,
+                  159,
+                  1146,
+                  229,
+                  1079,
+                  228
+                ],
+                "confidence": 0.997,
+                "text": "14"
+              },
+              {
+                "boundingBox": [
+                  1161,
+                  160,
+                  1195,
+                  162,
+                  1195,
+                  230,
+                  1161,
+                  229
+                ],
+                "confidence": 0.955,
+                "text": "-"
+              },
+              {
+                "boundingBox": [
+                  1210,
+                  162,
+                  1283,
+                  166,
+                  1283,
+                  232,
+                  1209,
+                  230
+                ],
+                "confidence": 0.997,
+                "text": "64"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1443
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:44:58Z",
+  "lastUpdatedDateTime": "2021-10-12T11:44:59Z",
+  "status": "succeeded"
+}

@@ -1,0 +1,1567 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": 0.2723,
+        "height": 1069,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.991,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              345,
+              21,
+              620,
+              28,
+              619,
+              62,
+              345,
+              52
+            ],
+            "text": "v. John R. Bartlett.",
+            "words": [
+              {
+                "boundingBox": [
+                  346,
+                  22,
+                  372,
+                  22,
+                  373,
+                  54,
+                  347,
+                  53
+                ],
+                "confidence": 0.069,
+                "text": "v."
+              },
+              {
+                "boundingBox": [
+                  378,
+                  22,
+                  441,
+                  22,
+                  442,
+                  56,
+                  379,
+                  54
+                ],
+                "confidence": 0.76,
+                "text": "John"
+              },
+              {
+                "boundingBox": [
+                  447,
+                  23,
+                  482,
+                  23,
+                  483,
+                  57,
+                  448,
+                  56
+                ],
+                "confidence": 0.87,
+                "text": "R."
+              },
+              {
+                "boundingBox": [
+                  488,
+                  24,
+                  619,
+                  32,
+                  618,
+                  61,
+                  489,
+                  58
+                ],
+                "confidence": 0.736,
+                "text": "Bartlett."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              407,
+              58,
+              577,
+              56,
+              577,
+              79,
+              407,
+              82
+            ],
+            "text": "d. Sept 34. 63",
+            "words": [
+              {
+                "boundingBox": [
+                  410,
+                  58,
+                  433,
+                  58,
+                  431,
+                  81,
+                  408,
+                  81
+                ],
+                "confidence": 0.925,
+                "text": "d."
+              },
+              {
+                "boundingBox": [
+                  437,
+                  58,
+                  493,
+                  58,
+                  492,
+                  81,
+                  436,
+                  82
+                ],
+                "confidence": 0.179,
+                "text": "Sept"
+              },
+              {
+                "boundingBox": [
+                  499,
+                  58,
+                  544,
+                  58,
+                  543,
+                  80,
+                  498,
+                  81
+                ],
+                "confidence": 0.425,
+                "text": "34."
+              },
+              {
+                "boundingBox": [
+                  548,
+                  57,
+                  575,
+                  57,
+                  575,
+                  78,
+                  547,
+                  80
+                ],
+                "confidence": 0.978,
+                "text": "63"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              423,
+              85,
+              451,
+              87,
+              450,
+              109,
+              421,
+              106
+            ],
+            "text": "7 .",
+            "words": [
+              {
+                "boundingBox": [
+                  426,
+                  85,
+                  435,
+                  85,
+                  433,
+                  107,
+                  424,
+                  107
+                ],
+                "confidence": 0.266,
+                "text": "7"
+              },
+              {
+                "boundingBox": [
+                  439,
+                  86,
+                  451,
+                  87,
+                  449,
+                  109,
+                  437,
+                  108
+                ],
+                "confidence": 0.958,
+                "text": "."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              385,
+              109,
+              664,
+              109,
+              663,
+              141,
+              385,
+              139
+            ],
+            "text": "Sends Registration Re",
+            "words": [
+              {
+                "boundingBox": [
+                  387,
+                  111,
+                  453,
+                  110,
+                  453,
+                  139,
+                  386,
+                  138
+                ],
+                "confidence": 0.762,
+                "text": "Sends"
+              },
+              {
+                "boundingBox": [
+                  460,
+                  110,
+                  620,
+                  110,
+                  619,
+                  141,
+                  459,
+                  140
+                ],
+                "confidence": 0.063,
+                "text": "Registration"
+              },
+              {
+                "boundingBox": [
+                  627,
+                  110,
+                  663,
+                  110,
+                  662,
+                  141,
+                  626,
+                  141
+                ],
+                "confidence": 0.805,
+                "text": "Re"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.821,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              854,
+              82,
+              1221,
+              82,
+              1222,
+              117,
+              854,
+              118
+            ],
+            "text": "State of Rhode Island.",
+            "words": [
+              {
+                "boundingBox": [
+                  857,
+                  84,
+                  939,
+                  83,
+                  939,
+                  118,
+                  856,
+                  119
+                ],
+                "confidence": 0.994,
+                "text": "State"
+              },
+              {
+                "boundingBox": [
+                  946,
+                  83,
+                  984,
+                  83,
+                  984,
+                  118,
+                  945,
+                  118
+                ],
+                "confidence": 0.527,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  994,
+                  83,
+                  1092,
+                  82,
+                  1093,
+                  118,
+                  994,
+                  118
+                ],
+                "confidence": 0.702,
+                "text": "Rhode"
+              },
+              {
+                "boundingBox": [
+                  1099,
+                  82,
+                  1221,
+                  83,
+                  1222,
+                  118,
+                  1099,
+                  118
+                ],
+                "confidence": 0.238,
+                "text": "Island."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.878,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              1060,
+              149,
+              1277,
+              149,
+              1277,
+              175,
+              1060,
+              174
+            ],
+            "text": "Secretary's Office,",
+            "words": [
+              {
+                "boundingBox": [
+                  1060,
+                  150,
+                  1191,
+                  150,
+                  1191,
+                  176,
+                  1060,
+                  174
+                ],
+                "confidence": 0.949,
+                "text": "Secretary's"
+              },
+              {
+                "boundingBox": [
+                  1199,
+                  150,
+                  1277,
+                  150,
+                  1278,
+                  176,
+                  1199,
+                  176
+                ],
+                "confidence": 0.253,
+                "text": "Office,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              430,
+              181,
+              575,
+              185,
+              575,
+              211,
+              429,
+              205
+            ],
+            "text": "Sont Report.",
+            "words": [
+              {
+                "boundingBox": [
+                  430,
+                  182,
+                  488,
+                  182,
+                  487,
+                  207,
+                  429,
+                  205
+                ],
+                "confidence": 0.35,
+                "text": "Sont"
+              },
+              {
+                "boundingBox": [
+                  493,
+                  182,
+                  575,
+                  186,
+                  574,
+                  212,
+                  492,
+                  207
+                ],
+                "confidence": 0.189,
+                "text": "Report."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              945,
+              191,
+              1292,
+              191,
+              1292,
+              226,
+              945,
+              227
+            ],
+            "text": "Providence Teht 30 163",
+            "words": [
+              {
+                "boundingBox": [
+                  952,
+                  195,
+                  1074,
+                  192,
+                  1074,
+                  226,
+                  951,
+                  228
+                ],
+                "confidence": 0.345,
+                "text": "Providence"
+              },
+              {
+                "boundingBox": [
+                  1081,
+                  192,
+                  1159,
+                  192,
+                  1158,
+                  225,
+                  1081,
+                  226
+                ],
+                "confidence": 0.231,
+                "text": "Teht"
+              },
+              {
+                "boundingBox": [
+                  1167,
+                  192,
+                  1212,
+                  193,
+                  1212,
+                  225,
+                  1167,
+                  225
+                ],
+                "confidence": 0.657,
+                "text": "30"
+              },
+              {
+                "boundingBox": [
+                  1234,
+                  194,
+                  1292,
+                  197,
+                  1292,
+                  225,
+                  1234,
+                  225
+                ],
+                "confidence": 0.277,
+                "text": "163"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              874,
+              301,
+              1305,
+              303,
+              1305,
+              342,
+              874,
+              341
+            ],
+            "text": "In compliance mito few",
+            "words": [
+              {
+                "boundingBox": [
+                  877,
+                  302,
+                  925,
+                  302,
+                  923,
+                  342,
+                  874,
+                  341
+                ],
+                "confidence": 0.903,
+                "text": "In"
+              },
+              {
+                "boundingBox": [
+                  936,
+                  302,
+                  1149,
+                  305,
+                  1148,
+                  342,
+                  933,
+                  342
+                ],
+                "confidence": 0.059,
+                "text": "compliance"
+              },
+              {
+                "boundingBox": [
+                  1162,
+                  305,
+                  1244,
+                  307,
+                  1243,
+                  340,
+                  1160,
+                  342
+                ],
+                "confidence": 0.561,
+                "text": "mito"
+              },
+              {
+                "boundingBox": [
+                  1251,
+                  307,
+                  1306,
+                  308,
+                  1306,
+                  339,
+                  1251,
+                  340
+                ],
+                "confidence": 0.127,
+                "text": "few"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              729,
+              363,
+              1297,
+              363,
+              1297,
+              401,
+              729,
+              400
+            ],
+            "text": "request t have let to your addrb",
+            "words": [
+              {
+                "boundingBox": [
+                  730,
+                  367,
+                  837,
+                  365,
+                  837,
+                  401,
+                  730,
+                  400
+                ],
+                "confidence": 0.077,
+                "text": "request"
+              },
+              {
+                "boundingBox": [
+                  865,
+                  364,
+                  884,
+                  364,
+                  884,
+                  401,
+                  865,
+                  401
+                ],
+                "confidence": 0.35,
+                "text": "t"
+              },
+              {
+                "boundingBox": [
+                  896,
+                  364,
+                  973,
+                  363,
+                  973,
+                  401,
+                  896,
+                  401
+                ],
+                "confidence": 0.87,
+                "text": "have"
+              },
+              {
+                "boundingBox": [
+                  981,
+                  363,
+                  1057,
+                  363,
+                  1057,
+                  401,
+                  981,
+                  401
+                ],
+                "confidence": 0.228,
+                "text": "let"
+              },
+              {
+                "boundingBox": [
+                  1064,
+                  363,
+                  1098,
+                  364,
+                  1098,
+                  401,
+                  1064,
+                  401
+                ],
+                "confidence": 0.959,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  1104,
+                  364,
+                  1176,
+                  365,
+                  1176,
+                  401,
+                  1104,
+                  401
+                ],
+                "confidence": 0.732,
+                "text": "your"
+              },
+              {
+                "boundingBox": [
+                  1182,
+                  365,
+                  1293,
+                  368,
+                  1293,
+                  399,
+                  1182,
+                  401
+                ],
+                "confidence": 0.044,
+                "text": "addrb"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              730,
+              424,
+              1295,
+              416,
+              1295,
+              455,
+              730,
+              463
+            ],
+            "text": "by Ihrop to-day, the Registration",
+            "words": [
+              {
+                "boundingBox": [
+                  731,
+                  427,
+                  759,
+                  426,
+                  758,
+                  463,
+                  731,
+                  463
+                ],
+                "confidence": 0.422,
+                "text": "by"
+              },
+              {
+                "boundingBox": [
+                  766,
+                  426,
+                  878,
+                  423,
+                  877,
+                  463,
+                  765,
+                  463
+                ],
+                "confidence": 0.345,
+                "text": "Ihrop"
+              },
+              {
+                "boundingBox": [
+                  894,
+                  422,
+                  1029,
+                  419,
+                  1029,
+                  461,
+                  894,
+                  463
+                ],
+                "confidence": 0.445,
+                "text": "to-day,"
+              },
+              {
+                "boundingBox": [
+                  1036,
+                  419,
+                  1099,
+                  418,
+                  1099,
+                  460,
+                  1036,
+                  461
+                ],
+                "confidence": 0.422,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  1106,
+                  418,
+                  1294,
+                  416,
+                  1294,
+                  454,
+                  1106,
+                  460
+                ],
+                "confidence": 0.241,
+                "text": "Registration"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              736,
+              471,
+              1262,
+              473,
+              1262,
+              526,
+              736,
+              523
+            ],
+            "text": "Reports of this Heato hd 2 to 9",
+            "words": [
+              {
+                "boundingBox": [
+                  736,
+                  473,
+                  841,
+                  472,
+                  841,
+                  523,
+                  737,
+                  525
+                ],
+                "confidence": 0.108,
+                "text": "Reports"
+              },
+              {
+                "boundingBox": [
+                  851,
+                  472,
+                  889,
+                  472,
+                  888,
+                  523,
+                  851,
+                  523
+                ],
+                "confidence": 0.994,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  899,
+                  472,
+                  964,
+                  472,
+                  963,
+                  523,
+                  899,
+                  523
+                ],
+                "confidence": 0.094,
+                "text": "this"
+              },
+              {
+                "boundingBox": [
+                  974,
+                  472,
+                  1069,
+                  473,
+                  1068,
+                  523,
+                  973,
+                  523
+                ],
+                "confidence": 0.736,
+                "text": "Heato"
+              },
+              {
+                "boundingBox": [
+                  1079,
+                  473,
+                  1141,
+                  474,
+                  1139,
+                  524,
+                  1078,
+                  523
+                ],
+                "confidence": 0.203,
+                "text": "hd"
+              },
+              {
+                "boundingBox": [
+                  1151,
+                  475,
+                  1178,
+                  475,
+                  1177,
+                  525,
+                  1149,
+                  524
+                ],
+                "confidence": 0.79,
+                "text": "2"
+              },
+              {
+                "boundingBox": [
+                  1188,
+                  475,
+                  1219,
+                  476,
+                  1217,
+                  525,
+                  1187,
+                  525
+                ],
+                "confidence": 0.613,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  1229,
+                  476,
+                  1260,
+                  477,
+                  1258,
+                  526,
+                  1227,
+                  526
+                ],
+                "confidence": 0.193,
+                "text": "9"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              738,
+              540,
+              1295,
+              536,
+              1296,
+              578,
+              738,
+              581
+            ],
+            "text": "Inclusive , embracing all that have",
+            "words": [
+              {
+                "boundingBox": [
+                  739,
+                  545,
+                  885,
+                  546,
+                  885,
+                  579,
+                  738,
+                  575
+                ],
+                "confidence": 0.053,
+                "text": "Inclusive"
+              },
+              {
+                "boundingBox": [
+                  890,
+                  546,
+                  900,
+                  546,
+                  900,
+                  580,
+                  891,
+                  580
+                ],
+                "confidence": 0.938,
+                "text": ","
+              },
+              {
+                "boundingBox": [
+                  906,
+                  546,
+                  1064,
+                  544,
+                  1065,
+                  581,
+                  906,
+                  580
+                ],
+                "confidence": 0.076,
+                "text": "embracing"
+              },
+              {
+                "boundingBox": [
+                  1074,
+                  544,
+                  1128,
+                  543,
+                  1130,
+                  580,
+                  1075,
+                  581
+                ],
+                "confidence": 0.994,
+                "text": "all"
+              },
+              {
+                "boundingBox": [
+                  1134,
+                  542,
+                  1208,
+                  540,
+                  1210,
+                  579,
+                  1136,
+                  580
+                ],
+                "confidence": 0.87,
+                "text": "that"
+              },
+              {
+                "boundingBox": [
+                  1216,
+                  540,
+                  1292,
+                  536,
+                  1294,
+                  576,
+                  1218,
+                  578
+                ],
+                "confidence": 0.493,
+                "text": "have"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              734,
+              595,
+              1321,
+              601,
+              1321,
+              644,
+              734,
+              640
+            ],
+            "text": "beau publicar expected the fint, which",
+            "words": [
+              {
+                "boundingBox": [
+                  736,
+                  595,
+                  806,
+                  598,
+                  804,
+                  641,
+                  734,
+                  638
+                ],
+                "confidence": 0.259,
+                "text": "beau"
+              },
+              {
+                "boundingBox": [
+                  817,
+                  599,
+                  966,
+                  603,
+                  965,
+                  644,
+                  815,
+                  641
+                ],
+                "confidence": 0.117,
+                "text": "publicar"
+              },
+              {
+                "boundingBox": [
+                  974,
+                  603,
+                  1076,
+                  605,
+                  1076,
+                  644,
+                  974,
+                  644
+                ],
+                "confidence": 0.003,
+                "text": "expected"
+              },
+              {
+                "boundingBox": [
+                  1084,
+                  605,
+                  1137,
+                  606,
+                  1138,
+                  643,
+                  1084,
+                  644
+                ],
+                "confidence": 0.702,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  1146,
+                  606,
+                  1222,
+                  606,
+                  1223,
+                  642,
+                  1146,
+                  643
+                ],
+                "confidence": 0.753,
+                "text": "fint,"
+              },
+              {
+                "boundingBox": [
+                  1230,
+                  606,
+                  1317,
+                  606,
+                  1319,
+                  639,
+                  1231,
+                  642
+                ],
+                "confidence": 0.485,
+                "text": "which"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              734,
+              664,
+              977,
+              667,
+              976,
+              704,
+              733,
+              701
+            ],
+            "text": "is out of print.",
+            "words": [
+              {
+                "boundingBox": [
+                  736,
+                  664,
+                  763,
+                  665,
+                  761,
+                  701,
+                  733,
+                  700
+                ],
+                "confidence": 0.995,
+                "text": "is"
+              },
+              {
+                "boundingBox": [
+                  770,
+                  665,
+                  828,
+                  665,
+                  827,
+                  704,
+                  768,
+                  701
+                ],
+                "confidence": 0.891,
+                "text": "out"
+              },
+              {
+                "boundingBox": [
+                  835,
+                  666,
+                  856,
+                  666,
+                  856,
+                  704,
+                  835,
+                  704
+                ],
+                "confidence": 0.872,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  863,
+                  666,
+                  975,
+                  667,
+                  977,
+                  703,
+                  863,
+                  704
+                ],
+                "confidence": 0.982,
+                "text": "print."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              806,
+              712,
+              1323,
+              716,
+              1323,
+              757,
+              806,
+              754
+            ],
+            "text": "I shall bee plan to recover from",
+            "words": [
+              {
+                "boundingBox": [
+                  809,
+                  712,
+                  832,
+                  713,
+                  831,
+                  752,
+                  808,
+                  751
+                ],
+                "confidence": 0.797,
+                "text": "I"
+              },
+              {
+                "boundingBox": [
+                  844,
+                  713,
+                  935,
+                  714,
+                  934,
+                  755,
+                  843,
+                  752
+                ],
+                "confidence": 0.234,
+                "text": "shall"
+              },
+              {
+                "boundingBox": [
+                  942,
+                  715,
+                  985,
+                  715,
+                  985,
+                  756,
+                  942,
+                  756
+                ],
+                "confidence": 0.394,
+                "text": "bee"
+              },
+              {
+                "boundingBox": [
+                  992,
+                  715,
+                  1068,
+                  716,
+                  1068,
+                  757,
+                  992,
+                  757
+                ],
+                "confidence": 0.189,
+                "text": "plan"
+              },
+              {
+                "boundingBox": [
+                  1075,
+                  716,
+                  1116,
+                  717,
+                  1116,
+                  757,
+                  1075,
+                  757
+                ],
+                "confidence": 0.994,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  1123,
+                  717,
+                  1224,
+                  718,
+                  1224,
+                  756,
+                  1123,
+                  757
+                ],
+                "confidence": 0.31,
+                "text": "recover"
+              },
+              {
+                "boundingBox": [
+                  1231,
+                  718,
+                  1317,
+                  719,
+                  1317,
+                  754,
+                  1232,
+                  756
+                ],
+                "confidence": 0.218,
+                "text": "from"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              735,
+              776,
+              1325,
+              782,
+              1325,
+              821,
+              735,
+              817
+            ],
+            "text": "You the publication of the Ainencar",
+            "words": [
+              {
+                "boundingBox": [
+                  736,
+                  776,
+                  784,
+                  778,
+                  784,
+                  817,
+                  736,
+                  816
+                ],
+                "confidence": 0.575,
+                "text": "You"
+              },
+              {
+                "boundingBox": [
+                  792,
+                  778,
+                  843,
+                  779,
+                  843,
+                  818,
+                  791,
+                  817
+                ],
+                "confidence": 0.519,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  854,
+                  779,
+                  1043,
+                  782,
+                  1043,
+                  821,
+                  853,
+                  818
+                ],
+                "confidence": 0.257,
+                "text": "publication"
+              },
+              {
+                "boundingBox": [
+                  1066,
+                  783,
+                  1092,
+                  783,
+                  1091,
+                  821,
+                  1066,
+                  821
+                ],
+                "confidence": 0.125,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  1100,
+                  783,
+                  1148,
+                  783,
+                  1148,
+                  821,
+                  1099,
+                  821
+                ],
+                "confidence": 0.329,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  1161,
+                  783,
+                  1317,
+                  784,
+                  1317,
+                  819,
+                  1161,
+                  821
+                ],
+                "confidence": 0.191,
+                "text": "Ainencar"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              728,
+              827,
+              1094,
+              838,
+              1092,
+              887,
+              727,
+              876
+            ],
+            "text": "Freedman Cunifim",
+            "words": [
+              {
+                "boundingBox": [
+                  728,
+                  828,
+                  906,
+                  833,
+                  905,
+                  883,
+                  727,
+                  876
+                ],
+                "confidence": 0.083,
+                "text": "Freedman"
+              },
+              {
+                "boundingBox": [
+                  918,
+                  833,
+                  1090,
+                  838,
+                  1090,
+                  888,
+                  917,
+                  883
+                ],
+                "confidence": 0.107,
+                "text": "Cunifim"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              971,
+              888,
+              1259,
+              892,
+              1259,
+              939,
+              970,
+              937
+            ],
+            "text": "Your respectfully",
+            "words": [
+              {
+                "boundingBox": [
+                  971,
+                  889,
+                  1060,
+                  895,
+                  1060,
+                  939,
+                  971,
+                  936
+                ],
+                "confidence": 0.396,
+                "text": "Your"
+              },
+              {
+                "boundingBox": [
+                  1069,
+                  896,
+                  1259,
+                  895,
+                  1259,
+                  936,
+                  1069,
+                  939
+                ],
+                "confidence": 0.087,
+                "text": "respectfully"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1330
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:45:58Z",
+  "lastUpdatedDateTime": "2021-10-12T11:46:02Z",
+  "status": "succeeded"
+}

@@ -1,0 +1,1553 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": 0,
+        "height": 763,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              56,
+              31,
+              549,
+              25,
+              550,
+              55,
+              56,
+              59
+            ],
+            "text": "in front gomery 64 7 in Tuber ose",
+            "words": [
+              {
+                "boundingBox": [
+                  57,
+                  33,
+                  79,
+                  33,
+                  78,
+                  59,
+                  56,
+                  59
+                ],
+                "confidence": 0.734,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  85,
+                  33,
+                  164,
+                  33,
+                  164,
+                  59,
+                  84,
+                  59
+                ],
+                "confidence": 0.533,
+                "text": "front"
+              },
+              {
+                "boundingBox": [
+                  170,
+                  33,
+                  272,
+                  32,
+                  271,
+                  58,
+                  169,
+                  59
+                ],
+                "confidence": 0.397,
+                "text": "gomery"
+              },
+              {
+                "boundingBox": [
+                  277,
+                  32,
+                  312,
+                  32,
+                  311,
+                  58,
+                  277,
+                  58
+                ],
+                "confidence": 0.284,
+                "text": "64"
+              },
+              {
+                "boundingBox": [
+                  324,
+                  32,
+                  339,
+                  31,
+                  339,
+                  58,
+                  324,
+                  58
+                ],
+                "confidence": 0.008,
+                "text": "7"
+              },
+              {
+                "boundingBox": [
+                  365,
+                  31,
+                  393,
+                  30,
+                  393,
+                  57,
+                  365,
+                  57
+                ],
+                "confidence": 0.686,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  398,
+                  30,
+                  487,
+                  28,
+                  487,
+                  56,
+                  398,
+                  57
+                ],
+                "confidence": 0.243,
+                "text": "Tuber"
+              },
+              {
+                "boundingBox": [
+                  492,
+                  28,
+                  549,
+                  26,
+                  550,
+                  56,
+                  492,
+                  56
+                ],
+                "confidence": 0.333,
+                "text": "ose"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              55,
+              93,
+              587,
+              93,
+              587,
+              122,
+              55,
+              123
+            ],
+            "text": "of colonosen laboring temporarily",
+            "words": [
+              {
+                "boundingBox": [
+                  55,
+                  96,
+                  84,
+                  95,
+                  84,
+                  123,
+                  56,
+                  124
+                ],
+                "confidence": 0.961,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  95,
+                  95,
+                  275,
+                  93,
+                  275,
+                  118,
+                  95,
+                  122
+                ],
+                "confidence": 0.008,
+                "text": "colonosen"
+              },
+              {
+                "boundingBox": [
+                  301,
+                  93,
+                  428,
+                  94,
+                  428,
+                  118,
+                  301,
+                  117
+                ],
+                "confidence": 0.157,
+                "text": "laboring"
+              },
+              {
+                "boundingBox": [
+                  435,
+                  94,
+                  587,
+                  97,
+                  587,
+                  121,
+                  435,
+                  118
+                ],
+                "confidence": 0.983,
+                "text": "temporarily"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              77,
+              124,
+              578,
+              120,
+              578,
+              147,
+              77,
+              150
+            ],
+            "text": "various parts of the lich who they",
+            "words": [
+              {
+                "boundingBox": [
+                  81,
+                  128,
+                  194,
+                  125,
+                  194,
+                  149,
+                  81,
+                  147
+                ],
+                "confidence": 0.267,
+                "text": "various"
+              },
+              {
+                "boundingBox": [
+                  209,
+                  125,
+                  290,
+                  124,
+                  290,
+                  150,
+                  208,
+                  149
+                ],
+                "confidence": 0.539,
+                "text": "parts"
+              },
+              {
+                "boundingBox": [
+                  308,
+                  124,
+                  330,
+                  123,
+                  329,
+                  149,
+                  307,
+                  150
+                ],
+                "confidence": 0.005,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  339,
+                  123,
+                  376,
+                  123,
+                  375,
+                  149,
+                  338,
+                  149
+                ],
+                "confidence": 0.109,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  396,
+                  123,
+                  455,
+                  122,
+                  454,
+                  148,
+                  395,
+                  149
+                ],
+                "confidence": 0.172,
+                "text": "lich"
+              },
+              {
+                "boundingBox": [
+                  471,
+                  122,
+                  510,
+                  121,
+                  508,
+                  147,
+                  470,
+                  148
+                ],
+                "confidence": 0.093,
+                "text": "who"
+              },
+              {
+                "boundingBox": [
+                  523,
+                  121,
+                  578,
+                  121,
+                  576,
+                  146,
+                  522,
+                  147
+                ],
+                "confidence": 0.02,
+                "text": "they"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              54,
+              149,
+              324,
+              153,
+              324,
+              176,
+              54,
+              174
+            ],
+            "text": "town ships our ana",
+            "words": [
+              {
+                "boundingBox": [
+                  55,
+                  150,
+                  111,
+                  151,
+                  110,
+                  175,
+                  54,
+                  174
+                ],
+                "confidence": 0.94,
+                "text": "town"
+              },
+              {
+                "boundingBox": [
+                  115,
+                  151,
+                  184,
+                  153,
+                  184,
+                  176,
+                  115,
+                  175
+                ],
+                "confidence": 0.815,
+                "text": "ships"
+              },
+              {
+                "boundingBox": [
+                  194,
+                  153,
+                  244,
+                  154,
+                  244,
+                  176,
+                  194,
+                  176
+                ],
+                "confidence": 0.842,
+                "text": "our"
+              },
+              {
+                "boundingBox": [
+                  253,
+                  155,
+                  303,
+                  156,
+                  303,
+                  176,
+                  253,
+                  176
+                ],
+                "confidence": 0.453,
+                "text": "ana"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              53,
+              180,
+              575,
+              181,
+              575,
+              210,
+              53,
+              209
+            ],
+            "text": "of so cutting nord. They an doing",
+            "words": [
+              {
+                "boundingBox": [
+                  53,
+                  185,
+                  78,
+                  184,
+                  78,
+                  209,
+                  54,
+                  210
+                ],
+                "confidence": 0.958,
+                "text": "of"
+              },
+              {
+                "boundingBox": [
+                  93,
+                  184,
+                  127,
+                  183,
+                  127,
+                  208,
+                  93,
+                  209
+                ],
+                "confidence": 0.408,
+                "text": "so"
+              },
+              {
+                "boundingBox": [
+                  140,
+                  182,
+                  254,
+                  181,
+                  254,
+                  206,
+                  140,
+                  207
+                ],
+                "confidence": 0.328,
+                "text": "cutting"
+              },
+              {
+                "boundingBox": [
+                  263,
+                  181,
+                  355,
+                  181,
+                  354,
+                  205,
+                  262,
+                  206
+                ],
+                "confidence": 0.33,
+                "text": "nord."
+              },
+              {
+                "boundingBox": [
+                  360,
+                  181,
+                  422,
+                  182,
+                  421,
+                  206,
+                  359,
+                  206
+                ],
+                "confidence": 0.823,
+                "text": "They"
+              },
+              {
+                "boundingBox": [
+                  432,
+                  182,
+                  468,
+                  183,
+                  467,
+                  207,
+                  431,
+                  206
+                ],
+                "confidence": 0.918,
+                "text": "an"
+              },
+              {
+                "boundingBox": [
+                  483,
+                  183,
+                  572,
+                  186,
+                  570,
+                  210,
+                  482,
+                  208
+                ],
+                "confidence": 0.301,
+                "text": "doing"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              54,
+              211,
+              589,
+              211,
+              589,
+              234,
+              54,
+              234
+            ],
+            "text": "good service I Earning, at shoo for end,",
+            "words": [
+              {
+                "boundingBox": [
+                  56,
+                  212,
+                  110,
+                  212,
+                  109,
+                  233,
+                  56,
+                  233
+                ],
+                "confidence": 0.358,
+                "text": "good"
+              },
+              {
+                "boundingBox": [
+                  130,
+                  212,
+                  224,
+                  213,
+                  222,
+                  234,
+                  129,
+                  233
+                ],
+                "confidence": 0.221,
+                "text": "service"
+              },
+              {
+                "boundingBox": [
+                  233,
+                  213,
+                  245,
+                  213,
+                  243,
+                  234,
+                  231,
+                  234
+                ],
+                "confidence": 0.609,
+                "text": "I"
+              },
+              {
+                "boundingBox": [
+                  262,
+                  213,
+                  377,
+                  213,
+                  375,
+                  234,
+                  260,
+                  234
+                ],
+                "confidence": 0.214,
+                "text": "Earning,"
+              },
+              {
+                "boundingBox": [
+                  382,
+                  213,
+                  416,
+                  213,
+                  413,
+                  234,
+                  379,
+                  234
+                ],
+                "confidence": 0.914,
+                "text": "at"
+              },
+              {
+                "boundingBox": [
+                  426,
+                  213,
+                  488,
+                  212,
+                  485,
+                  235,
+                  423,
+                  234
+                ],
+                "confidence": 0.339,
+                "text": "shoo"
+              },
+              {
+                "boundingBox": [
+                  498,
+                  212,
+                  536,
+                  212,
+                  533,
+                  235,
+                  495,
+                  235
+                ],
+                "confidence": 0.249,
+                "text": "for"
+              },
+              {
+                "boundingBox": [
+                  541,
+                  212,
+                  589,
+                  211,
+                  586,
+                  235,
+                  537,
+                  235
+                ],
+                "confidence": 0.232,
+                "text": "end,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              40,
+              238,
+              463,
+              238,
+              463,
+              269,
+              40,
+              269
+            ],
+            "text": "From $100 to $11.00 fun day,",
+            "words": [
+              {
+                "boundingBox": [
+                  45,
+                  242,
+                  108,
+                  240,
+                  111,
+                  266,
+                  49,
+                  269
+                ],
+                "confidence": 0.736,
+                "text": "From"
+              },
+              {
+                "boundingBox": [
+                  132,
+                  240,
+                  201,
+                  239,
+                  202,
+                  263,
+                  134,
+                  265
+                ],
+                "confidence": 0.337,
+                "text": "$100"
+              },
+              {
+                "boundingBox": [
+                  211,
+                  239,
+                  242,
+                  239,
+                  244,
+                  263,
+                  213,
+                  263
+                ],
+                "confidence": 0.059,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  249,
+                  239,
+                  331,
+                  239,
+                  331,
+                  263,
+                  251,
+                  263
+                ],
+                "confidence": 0.31,
+                "text": "$11.00"
+              },
+              {
+                "boundingBox": [
+                  340,
+                  240,
+                  377,
+                  240,
+                  378,
+                  265,
+                  340,
+                  263
+                ],
+                "confidence": 0.066,
+                "text": "fun"
+              },
+              {
+                "boundingBox": [
+                  383,
+                  241,
+                  463,
+                  243,
+                  462,
+                  268,
+                  383,
+                  265
+                ],
+                "confidence": 0.32,
+                "text": "day,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              109,
+              266,
+              578,
+              265,
+              578,
+              293,
+              109,
+              293
+            ],
+            "text": "Gang opinion I caned give from",
+            "words": [
+              {
+                "boundingBox": [
+                  113,
+                  266,
+                  199,
+                  268,
+                  199,
+                  293,
+                  113,
+                  294
+                ],
+                "confidence": 0.251,
+                "text": "Gang"
+              },
+              {
+                "boundingBox": [
+                  213,
+                  268,
+                  333,
+                  268,
+                  334,
+                  292,
+                  213,
+                  293
+                ],
+                "confidence": 0.377,
+                "text": "opinion"
+              },
+              {
+                "boundingBox": [
+                  339,
+                  268,
+                  355,
+                  268,
+                  355,
+                  292,
+                  339,
+                  292
+                ],
+                "confidence": 0.862,
+                "text": "I"
+              },
+              {
+                "boundingBox": [
+                  381,
+                  268,
+                  452,
+                  268,
+                  452,
+                  292,
+                  381,
+                  292
+                ],
+                "confidence": 0.399,
+                "text": "caned"
+              },
+              {
+                "boundingBox": [
+                  466,
+                  268,
+                  515,
+                  267,
+                  516,
+                  293,
+                  467,
+                  292
+                ],
+                "confidence": 0.328,
+                "text": "give"
+              },
+              {
+                "boundingBox": [
+                  521,
+                  267,
+                  570,
+                  266,
+                  570,
+                  293,
+                  521,
+                  293
+                ],
+                "confidence": 0.24,
+                "text": "from"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              53,
+              297,
+              575,
+              297,
+              575,
+              323,
+              53,
+              323
+            ],
+            "text": "observation in any limited fill, a pow",
+            "words": [
+              {
+                "boundingBox": [
+                  54,
+                  301,
+                  200,
+                  299,
+                  200,
+                  323,
+                  53,
+                  322
+                ],
+                "confidence": 0.047,
+                "text": "observation"
+              },
+              {
+                "boundingBox": [
+                  214,
+                  298,
+                  240,
+                  298,
+                  240,
+                  323,
+                  213,
+                  323
+                ],
+                "confidence": 0.986,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  249,
+                  298,
+                  291,
+                  298,
+                  291,
+                  323,
+                  248,
+                  323
+                ],
+                "confidence": 0.651,
+                "text": "any"
+              },
+              {
+                "boundingBox": [
+                  305,
+                  298,
+                  401,
+                  298,
+                  400,
+                  324,
+                  305,
+                  323
+                ],
+                "confidence": 0.251,
+                "text": "limited"
+              },
+              {
+                "boundingBox": [
+                  420,
+                  298,
+                  495,
+                  299,
+                  494,
+                  324,
+                  419,
+                  324
+                ],
+                "confidence": 0.217,
+                "text": "fill,"
+              },
+              {
+                "boundingBox": [
+                  504,
+                  299,
+                  517,
+                  299,
+                  516,
+                  324,
+                  504,
+                  324
+                ],
+                "confidence": 0.569,
+                "text": "a"
+              },
+              {
+                "boundingBox": [
+                  525,
+                  299,
+                  564,
+                  300,
+                  563,
+                  324,
+                  525,
+                  324
+                ],
+                "confidence": 0.752,
+                "text": "pow"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              52,
+              324,
+              585,
+              324,
+              585,
+              353,
+              52,
+              352
+            ],
+            "text": "the frat question to which you at-",
+            "words": [
+              {
+                "boundingBox": [
+                  53,
+                  324,
+                  86,
+                  325,
+                  88,
+                  353,
+                  55,
+                  353
+                ],
+                "confidence": 0.108,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  105,
+                  326,
+                  181,
+                  327,
+                  182,
+                  353,
+                  107,
+                  353
+                ],
+                "confidence": 0.392,
+                "text": "frat"
+              },
+              {
+                "boundingBox": [
+                  194,
+                  328,
+                  305,
+                  329,
+                  306,
+                  353,
+                  195,
+                  353
+                ],
+                "confidence": 0.112,
+                "text": "question"
+              },
+              {
+                "boundingBox": [
+                  316,
+                  329,
+                  345,
+                  329,
+                  345,
+                  353,
+                  317,
+                  353
+                ],
+                "confidence": 0.745,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  350,
+                  329,
+                  432,
+                  329,
+                  432,
+                  352,
+                  351,
+                  353
+                ],
+                "confidence": 0.773,
+                "text": "which"
+              },
+              {
+                "boundingBox": [
+                  449,
+                  329,
+                  501,
+                  329,
+                  501,
+                  352,
+                  449,
+                  352
+                ],
+                "confidence": 0.256,
+                "text": "you"
+              },
+              {
+                "boundingBox": [
+                  518,
+                  329,
+                  584,
+                  327,
+                  584,
+                  350,
+                  518,
+                  351
+                ],
+                "confidence": 0.539,
+                "text": "at-"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              51,
+              355,
+              592,
+              356,
+              592,
+              380,
+              51,
+              379
+            ],
+            "text": "bution is called would be compar-",
+            "words": [
+              {
+                "boundingBox": [
+                  53,
+                  355,
+                  142,
+                  356,
+                  143,
+                  379,
+                  54,
+                  380
+                ],
+                "confidence": 0.292,
+                "text": "bution"
+              },
+              {
+                "boundingBox": [
+                  163,
+                  357,
+                  194,
+                  357,
+                  194,
+                  379,
+                  164,
+                  379
+                ],
+                "confidence": 0.744,
+                "text": "is"
+              },
+              {
+                "boundingBox": [
+                  200,
+                  357,
+                  301,
+                  358,
+                  301,
+                  379,
+                  201,
+                  379
+                ],
+                "confidence": 0.121,
+                "text": "called"
+              },
+              {
+                "boundingBox": [
+                  328,
+                  358,
+                  409,
+                  358,
+                  409,
+                  379,
+                  328,
+                  379
+                ],
+                "confidence": 0.073,
+                "text": "would"
+              },
+              {
+                "boundingBox": [
+                  432,
+                  358,
+                  466,
+                  358,
+                  466,
+                  379,
+                  432,
+                  379
+                ],
+                "confidence": 0.87,
+                "text": "be"
+              },
+              {
+                "boundingBox": [
+                  470,
+                  358,
+                  592,
+                  357,
+                  592,
+                  380,
+                  471,
+                  379
+                ],
+                "confidence": 0.481,
+                "text": "compar-"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              42,
+              441,
+              565,
+              443,
+              564,
+              468,
+              42,
+              466
+            ],
+            "text": "For betler obtain better Than I can",
+            "words": [
+              {
+                "boundingBox": [
+                  42,
+                  441,
+                  91,
+                  442,
+                  90,
+                  467,
+                  42,
+                  467
+                ],
+                "confidence": 0.054,
+                "text": "For"
+              },
+              {
+                "boundingBox": [
+                  97,
+                  442,
+                  185,
+                  442,
+                  185,
+                  468,
+                  97,
+                  467
+                ],
+                "confidence": 0.094,
+                "text": "betler"
+              },
+              {
+                "boundingBox": [
+                  203,
+                  442,
+                  299,
+                  443,
+                  299,
+                  468,
+                  203,
+                  468
+                ],
+                "confidence": 0.267,
+                "text": "obtain"
+              },
+              {
+                "boundingBox": [
+                  309,
+                  443,
+                  381,
+                  444,
+                  381,
+                  468,
+                  309,
+                  468
+                ],
+                "confidence": 0.371,
+                "text": "better"
+              },
+              {
+                "boundingBox": [
+                  386,
+                  444,
+                  460,
+                  444,
+                  460,
+                  467,
+                  386,
+                  468
+                ],
+                "confidence": 0.266,
+                "text": "Than"
+              },
+              {
+                "boundingBox": [
+                  477,
+                  445,
+                  492,
+                  445,
+                  492,
+                  467,
+                  477,
+                  467
+                ],
+                "confidence": 0.924,
+                "text": "I"
+              },
+              {
+                "boundingBox": [
+                  516,
+                  445,
+                  555,
+                  445,
+                  554,
+                  467,
+                  516,
+                  467
+                ],
+                "confidence": 0.324,
+                "text": "can"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              55,
+              471,
+              497,
+              471,
+              497,
+              500,
+              55,
+              502
+            ],
+            "text": "five it from other scourses",
+            "words": [
+              {
+                "boundingBox": [
+                  56,
+                  477,
+                  112,
+                  474,
+                  111,
+                  501,
+                  57,
+                  503
+                ],
+                "confidence": 0.392,
+                "text": "five"
+              },
+              {
+                "boundingBox": [
+                  127,
+                  474,
+                  163,
+                  473,
+                  163,
+                  499,
+                  126,
+                  500
+                ],
+                "confidence": 0.87,
+                "text": "it"
+              },
+              {
+                "boundingBox": [
+                  177,
+                  472,
+                  247,
+                  471,
+                  246,
+                  497,
+                  176,
+                  499
+                ],
+                "confidence": 0.779,
+                "text": "from"
+              },
+              {
+                "boundingBox": [
+                  271,
+                  471,
+                  363,
+                  472,
+                  361,
+                  497,
+                  270,
+                  497
+                ],
+                "confidence": 0.492,
+                "text": "other"
+              },
+              {
+                "boundingBox": [
+                  368,
+                  472,
+                  497,
+                  477,
+                  495,
+                  499,
+                  366,
+                  497
+                ],
+                "confidence": 0.064,
+                "text": "scourses"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              217,
+              498,
+              537,
+              502,
+              536,
+              533,
+              216,
+              529
+            ],
+            "text": "Very Respppet fully",
+            "words": [
+              {
+                "boundingBox": [
+                  220,
+                  498,
+                  298,
+                  500,
+                  296,
+                  529,
+                  218,
+                  530
+                ],
+                "confidence": 0.197,
+                "text": "Very"
+              },
+              {
+                "boundingBox": [
+                  308,
+                  500,
+                  457,
+                  503,
+                  455,
+                  531,
+                  306,
+                  529
+                ],
+                "confidence": 0.141,
+                "text": "Respppet"
+              },
+              {
+                "boundingBox": [
+                  463,
+                  503,
+                  537,
+                  503,
+                  535,
+                  534,
+                  461,
+                  531
+                ],
+                "confidence": 0.337,
+                "text": "fully"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              270,
+              513,
+              532,
+              510,
+              533,
+              556,
+              270,
+              559
+            ],
+            "text": "7M.V. Schenck",
+            "words": [
+              {
+                "boundingBox": [
+                  277,
+                  513,
+                  374,
+                  520,
+                  369,
+                  559,
+                  270,
+                  552
+                ],
+                "confidence": 0.088,
+                "text": "7M.V."
+              },
+              {
+                "boundingBox": [
+                  382,
+                  520,
+                  505,
+                  514,
+                  502,
+                  553,
+                  377,
+                  559
+                ],
+                "confidence": 0.301,
+                "text": "Schenck"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1187
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:45:25Z",
+  "lastUpdatedDateTime": "2021-10-12T11:45:28Z",
+  "status": "succeeded"
+}

@@ -1,0 +1,748 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": 0,
+        "height": 2360,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              850,
+              53,
+              1408,
+              48,
+              1409,
+              108,
+              850,
+              111
+            ],
+            "text": "Francis V. Balche",
+            "words": [
+              {
+                "boundingBox": [
+                  857,
+                  55,
+                  1094,
+                  53,
+                  1092,
+                  111,
+                  853,
+                  111
+                ],
+                "confidence": 0.355,
+                "text": "Francis"
+              },
+              {
+                "boundingBox": [
+                  1105,
+                  53,
+                  1174,
+                  52,
+                  1172,
+                  111,
+                  1103,
+                  111
+                ],
+                "confidence": 0.926,
+                "text": "V."
+              },
+              {
+                "boundingBox": [
+                  1185,
+                  52,
+                  1404,
+                  49,
+                  1404,
+                  109,
+                  1183,
+                  111
+                ],
+                "confidence": 0.478,
+                "text": "Balche"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.909,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              786,
+              120,
+              1450,
+              123,
+              1450,
+              181,
+              786,
+              179
+            ],
+            "text": "lelerk of, Com. on Harugn",
+            "words": [
+              {
+                "boundingBox": [
+                  789,
+                  121,
+                  950,
+                  125,
+                  948,
+                  181,
+                  787,
+                  179
+                ],
+                "confidence": 0.869,
+                "text": "lelerk"
+              },
+              {
+                "boundingBox": [
+                  966,
+                  125,
+                  1035,
+                  126,
+                  1033,
+                  181,
+                  963,
+                  181
+                ],
+                "confidence": 0.701,
+                "text": "of,"
+              },
+              {
+                "boundingBox": [
+                  1047,
+                  127,
+                  1193,
+                  129,
+                  1191,
+                  181,
+                  1044,
+                  181
+                ],
+                "confidence": 0.423,
+                "text": "Com."
+              },
+              {
+                "boundingBox": [
+                  1205,
+                  129,
+                  1274,
+                  130,
+                  1272,
+                  180,
+                  1203,
+                  181
+                ],
+                "confidence": 0.87,
+                "text": "on"
+              },
+              {
+                "boundingBox": [
+                  1285,
+                  130,
+                  1447,
+                  131,
+                  1446,
+                  176,
+                  1284,
+                  180
+                ],
+                "confidence": 0.28,
+                "text": "Harugn"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              792,
+              184,
+              1413,
+              183,
+              1413,
+              235,
+              792,
+              237
+            ],
+            "text": "Relations - Washington",
+            "words": [
+              {
+                "boundingBox": [
+                  793,
+                  184,
+                  1030,
+                  187,
+                  1029,
+                  237,
+                  792,
+                  238
+                ],
+                "confidence": 0.759,
+                "text": "Relations"
+              },
+              {
+                "boundingBox": [
+                  1041,
+                  187,
+                  1073,
+                  187,
+                  1072,
+                  237,
+                  1040,
+                  237
+                ],
+                "confidence": 0.877,
+                "text": "-"
+              },
+              {
+                "boundingBox": [
+                  1090,
+                  187,
+                  1403,
+                  184,
+                  1402,
+                  236,
+                  1090,
+                  237
+                ],
+                "confidence": 0.07,
+                "text": "Washington"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.991,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              785,
+              242,
+              1205,
+              242,
+              1205,
+              302,
+              785,
+              299
+            ],
+            "text": "Jan. 115 1864.",
+            "words": [
+              {
+                "boundingBox": [
+                  785,
+                  248,
+                  912,
+                  243,
+                  913,
+                  294,
+                  785,
+                  299
+                ],
+                "confidence": 0.929,
+                "text": "Jan."
+              },
+              {
+                "boundingBox": [
+                  922,
+                  243,
+                  1006,
+                  242,
+                  1007,
+                  294,
+                  923,
+                  294
+                ],
+                "confidence": 0.665,
+                "text": "115"
+              },
+              {
+                "boundingBox": [
+                  1037,
+                  242,
+                  1202,
+                  247,
+                  1204,
+                  303,
+                  1038,
+                  295
+                ],
+                "confidence": 0.246,
+                "text": "1864."
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              817,
+              307,
+              1434,
+              304,
+              1434,
+              362,
+              817,
+              366
+            ],
+            "text": "Asking for information",
+            "words": [
+              {
+                "boundingBox": [
+                  824,
+                  308,
+                  1030,
+                  308,
+                  1030,
+                  366,
+                  824,
+                  365
+                ],
+                "confidence": 0.537,
+                "text": "Asking"
+              },
+              {
+                "boundingBox": [
+                  1041,
+                  308,
+                  1131,
+                  307,
+                  1131,
+                  366,
+                  1041,
+                  366
+                ],
+                "confidence": 0.87,
+                "text": "for"
+              },
+              {
+                "boundingBox": [
+                  1143,
+                  307,
+                  1432,
+                  304,
+                  1430,
+                  361,
+                  1142,
+                  365
+                ],
+                "confidence": 0.327,
+                "text": "information"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              768,
+              367,
+              1408,
+              365,
+              1408,
+              419,
+              768,
+              423
+            ],
+            "text": "about the AtreEdknew in",
+            "words": [
+              {
+                "boundingBox": [
+                  768,
+                  375,
+                  925,
+                  369,
+                  926,
+                  420,
+                  770,
+                  424
+                ],
+                "confidence": 0.775,
+                "text": "about"
+              },
+              {
+                "boundingBox": [
+                  961,
+                  368,
+                  1025,
+                  367,
+                  1025,
+                  419,
+                  961,
+                  420
+                ],
+                "confidence": 0.061,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  1044,
+                  366,
+                  1299,
+                  369,
+                  1298,
+                  418,
+                  1045,
+                  419
+                ],
+                "confidence": 0.178,
+                "text": "AtreEdknew"
+              },
+              {
+                "boundingBox": [
+                  1331,
+                  370,
+                  1395,
+                  372,
+                  1395,
+                  419,
+                  1330,
+                  418
+                ],
+                "confidence": 0.39,
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.812,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              767,
+              422,
+              1431,
+              421,
+              1431,
+              475,
+              767,
+              476
+            ],
+            "text": "Sent. Banks Department",
+            "words": [
+              {
+                "boundingBox": [
+                  768,
+                  426,
+                  896,
+                  423,
+                  896,
+                  477,
+                  769,
+                  477
+                ],
+                "confidence": 0.271,
+                "text": "Sent."
+              },
+              {
+                "boundingBox": [
+                  906,
+                  423,
+                  1099,
+                  422,
+                  1099,
+                  477,
+                  906,
+                  477
+                ],
+                "confidence": 0.771,
+                "text": "Banks"
+              },
+              {
+                "boundingBox": [
+                  1113,
+                  422,
+                  1429,
+                  427,
+                  1429,
+                  474,
+                  1113,
+                  476
+                ],
+                "confidence": 0.077,
+                "text": "Department"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.991,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              777,
+              480,
+              1399,
+              481,
+              1399,
+              530,
+              776,
+              527
+            ],
+            "text": "& in the Wach generally,",
+            "words": [
+              {
+                "boundingBox": [
+                  777,
+                  489,
+                  797,
+                  488,
+                  799,
+                  524,
+                  778,
+                  524
+                ],
+                "confidence": 0.373,
+                "text": "&"
+              },
+              {
+                "boundingBox": [
+                  813,
+                  487,
+                  861,
+                  485,
+                  863,
+                  523,
+                  815,
+                  524
+                ],
+                "confidence": 0.96,
+                "text": "in"
+              },
+              {
+                "boundingBox": [
+                  887,
+                  484,
+                  962,
+                  482,
+                  964,
+                  524,
+                  888,
+                  524
+                ],
+                "confidence": 0.926,
+                "text": "the"
+              },
+              {
+                "boundingBox": [
+                  981,
+                  481,
+                  1112,
+                  480,
+                  1113,
+                  525,
+                  982,
+                  524
+                ],
+                "confidence": 0.173,
+                "text": "Wach"
+              },
+              {
+                "boundingBox": [
+                  1132,
+                  480,
+                  1394,
+                  487,
+                  1396,
+                  531,
+                  1134,
+                  525
+                ],
+                "confidence": 0.363,
+                "text": "generally,"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              819,
+              546,
+              1436,
+              546,
+              1436,
+              603,
+              819,
+              602
+            ],
+            "text": "Replied to & documents",
+            "words": [
+              {
+                "boundingBox": [
+                  820,
+                  548,
+                  1016,
+                  546,
+                  1016,
+                  601,
+                  820,
+                  603
+                ],
+                "confidence": 0.999,
+                "text": "Replied"
+              },
+              {
+                "boundingBox": [
+                  1045,
+                  546,
+                  1111,
+                  546,
+                  1111,
+                  600,
+                  1045,
+                  601
+                ],
+                "confidence": 1.0,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  1122,
+                  546,
+                  1151,
+                  547,
+                  1151,
+                  600,
+                  1122,
+                  600
+                ],
+                "confidence": 0.7,
+                "text": "&"
+              },
+              {
+                "boundingBox": [
+                  1162,
+                  547,
+                  1436,
+                  551,
+                  1436,
+                  601,
+                  1162,
+                  600
+                ],
+                "confidence": 0.327,
+                "text": "documents"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 0.969,
+                "name": "handwriting"
+              }
+            },
+            "boundingBox": [
+              782,
+              608,
+              1312,
+              608,
+              1312,
+              662,
+              782,
+              662
+            ],
+            "text": "lent Jom . 121864.",
+            "words": [
+              {
+                "boundingBox": [
+                  783,
+                  613,
+                  895,
+                  611,
+                  894,
+                  657,
+                  783,
+                  659
+                ],
+                "confidence": 0.403,
+                "text": "lent"
+              },
+              {
+                "boundingBox": [
+                  907,
+                  611,
+                  1003,
+                  610,
+                  1001,
+                  656,
+                  906,
+                  657
+                ],
+                "confidence": 0.692,
+                "text": "Jom"
+              },
+              {
+                "boundingBox": [
+                  1029,
+                  609,
+                  1053,
+                  609,
+                  1051,
+                  656,
+                  1027,
+                  656
+                ],
+                "confidence": 0.873,
+                "text": "."
+              },
+              {
+                "boundingBox": [
+                  1062,
+                  609,
+                  1310,
+                  610,
+                  1305,
+                  663,
+                  1060,
+                  657
+                ],
+                "confidence": 0.856,
+                "text": "121864."
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1495
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:44:31Z",
+  "lastUpdatedDateTime": "2021-10-12T11:44:32Z",
+  "status": "succeeded"
+}

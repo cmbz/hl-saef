@@ -1,0 +1,146 @@
+{
+  "analyzeResult": {
+    "modelVersion": "2021-04-12",
+    "readResults": [
+      {
+        "angle": -88.8574,
+        "height": 1722,
+        "lines": [
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              91,
+              1028,
+              90,
+              624,
+              128,
+              624,
+              130,
+              1028
+            ],
+            "text": "schenck nov. It",
+            "words": [
+              {
+                "boundingBox": [
+                  92,
+                  1019,
+                  90,
+                  818,
+                  127,
+                  817,
+                  130,
+                  1018
+                ],
+                "confidence": 0.254,
+                "text": "schenck"
+              },
+              {
+                "boundingBox": [
+                  90,
+                  795,
+                  90,
+                  709,
+                  128,
+                  708,
+                  127,
+                  794
+                ],
+                "confidence": 0.374,
+                "text": "nov."
+              },
+              {
+                "boundingBox": [
+                  90,
+                  700,
+                  90,
+                  645,
+                  129,
+                  644,
+                  128,
+                  699
+                ],
+                "confidence": 0.017,
+                "text": "It"
+              }
+            ]
+          },
+          {
+            "appearance": {
+              "style": {
+                "confidence": 1,
+                "name": "other"
+              }
+            },
+            "boundingBox": [
+              143,
+              1075,
+              150,
+              625,
+              194,
+              625,
+              183,
+              1077
+            ],
+            "text": "Answers to queries",
+            "words": [
+              {
+                "boundingBox": [
+                  144,
+                  1054,
+                  144,
+                  878,
+                  183,
+                  878,
+                  181,
+                  1054
+                ],
+                "confidence": 0.08,
+                "text": "Answers"
+              },
+              {
+                "boundingBox": [
+                  144,
+                  869,
+                  145,
+                  817,
+                  185,
+                  817,
+                  183,
+                  869
+                ],
+                "confidence": 0.87,
+                "text": "to"
+              },
+              {
+                "boundingBox": [
+                  145,
+                  808,
+                  151,
+                  654,
+                  192,
+                  654,
+                  185,
+                  808
+                ],
+                "confidence": 0.24,
+                "text": "queries"
+              }
+            ]
+          }
+        ],
+        "page": 1,
+        "unit": "pixel",
+        "width": 1365
+      }
+    ],
+    "version": "3.2.0"
+  },
+  "createdDateTime": "2021-10-12T11:45:37Z",
+  "lastUpdatedDateTime": "2021-10-12T11:45:38Z",
+  "status": "succeeded"
+}

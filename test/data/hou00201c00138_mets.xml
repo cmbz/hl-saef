@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<mets LABEL="Chapin, J.B. Letter to the Commission, Canandaigua, New York, 1863 Sept 7. United States. American Freedmen&apos;s Inquiry Commission. United States American Freedmen&apos;s Inquiry Commission records, 1862-1864. MS Am 702 (134). Houghton Library, Harvard University, Cambridge, Mass." TYPE="PAGEDOBJECT" PROFILE="HULPDS" xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pds="http://hul.harvard.edu/ois/xml/ns/pds" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://hul.harvard.edu/ois/xml/ns/pds http://hul.harvard.edu/ois/xml/xsd/pds/pds.xsd">
+	<dmdSec ID="C0" GROUPID="CITATION">
+		<mdWrap MDTYPE="MODS">
+			<xmlData>
+				<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3">
+					<mods:identifier type="hollis">990091469160203941</mods:identifier>
+					<mods:identifier type="uri" displayLabel="Finding Aid">http://id.lib.harvard.edu/ead/hou00201/catalog</mods:identifier>
+				</mods:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+
+	<fileSec>
+		<fileGrp ID="image-jp2">
+			<file ID="FIMG-JP2-hou00201c00138_0001" MIMETYPE="image/jp2">
+				<FLocat  LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:type="simple" xlink:href="image_jp2\hou00201c00138_0001.jp2" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+			</file>
+		</fileGrp>
+	</fileSec>
+	<structMap>
+		<div DMDID="C0" TYPE="CITATION">
+			<div ORDER="1" TYPE="PAGE">
+				<fptr FILEID="FIMG-JP2-hou00201c00138_0001"/>
+			</div>
+		</div>
+	</structMap>
+</mets>
