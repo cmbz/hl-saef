@@ -2046,20 +2046,6 @@ class SAEFDataset():
             msg = '{} - {}'.format(self._object_osn, self._dataset_pid)
             self.log_api_message('SAEF::upload_saef_metadata', 'api.editMetadata', status, msg)
             return True
-
-    def publish_dataset(self, api, pid):
-        """
-        Publish the dataverse dataset. 
-
-        Parameter
-        ---------
-        api : pyDataverse API
-        pid : int
-
-        Status: TO DO
-        """
-        # TO DO
-        return
     
     def log_api_message(self, function, api_operation, status, message):
         """

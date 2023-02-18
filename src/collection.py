@@ -95,7 +95,7 @@ class SAEFCollection:
         # handle responses
         status = response.status_code
         if (not (status >= 200 and status < 300)):
-            print('TEST: Error - failed to get dataset metadata for dataset: {}'.format(dataset_id))
+            print('SAEFCollection: Error - failed to get dataset metadata for dataset: {}'.format(dataset_id))
             return {}
         else:
             # get response data
@@ -137,7 +137,7 @@ class SAEFCollection:
         status = response.status_code
         # handle errors
         if (not (status >= 200 and status < 300)):
-            print('TEST: Error - failed to get inventory for collection: {} {}'.format(self._dataverse_collection_url,
+            print('SAEFCollection: Error - failed to get inventory for collection: {} {}'.format(self._dataverse_collection_url,
             response.json()))
             return {}
         
@@ -233,7 +233,7 @@ class SAEFCollection:
         # get the contents of the collection
         self._contents = self.__get_contents(api)
         if (not self._contents):
-            print('TEST: Error - empty dictionary')
+            print('SAEFCollection::initialize: Error - empty dictionary')
             return False
         return True
         
@@ -288,7 +288,6 @@ class SAEFCollection:
                     value = saef_md.get(val)
                     if (type(value[0]) is str):
                         inventory[key][val] = value[0]
-                        #saef_md[key] = value[0]
                     else:
                         inventory[key][val] = ';'.join(value[0])
                 
@@ -387,7 +386,7 @@ class SAEFCollection:
         status = response.status_code
         # handle errors
         if (not (status >= 200 and status < 300)):
-            print ('TEST: Error - failed to delete dataset: {}'.format(dataset_pid))
+            print ('SAEFCollection::destroy_dataset: Error - failed to delete dataset: {}'.format(dataset_pid))
             return False
         else:
             return True
