@@ -52,6 +52,8 @@ class SAEFProjectConfig:
         self._configparser = configparser.ConfigParser()
         # configure the parser with sections
         self._configparser.sections()
+        # log file instance (if any)
+        self._logfile = None
         # required sections and options, must be present, even if blank
         # note: update this table whenever you update the key/value directives in the [project].ini file
         self._options = {
@@ -200,7 +202,7 @@ class SAEFProjectConfig:
 class MSFTInventory (lcd.FileInventory):
     """
     Subclass of FileInventory to manage metadata about inventories of Microsoft Transcription files.
-    Valid file formats are: MSFT_IMG, MSFT_TXT, and mSFT_JSON.
+    Valid file formats are: MSFT_IMG, MSFT_TXT, and MSFT_JSON.
 
     Methods
     -------
