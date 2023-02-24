@@ -11,14 +11,14 @@ import configparser
 import copy
 import datetime
 import ddu # local: dataverse direct upload module
-import json
 import lcd # local: library collections as data module
+import logging
 import mimetypes
 import os
 import pandas as pd
-import pyDataverse
+from pyDataverse.models import Dataset
+from pyDataverse.models import Datafile
 import requests
-import time
 
 class SAEFProjectConfig:
     """
@@ -52,8 +52,10 @@ class SAEFProjectConfig:
         self._configparser = configparser.ConfigParser()
         # configure the parser with sections
         self._configparser.sections()
-        # log file instance (if any)
-        self._logfile = None
+        # api log file instance (if any)
+        self.api_logfile = None
+        # logging status
+        self.api_logging = False
         # required sections and options, must be present, even if blank
         # note: update this table whenever you update the key/value directives in the [project].ini file
         self._options = {
@@ -177,27 +179,21 @@ class SAEFProjectConfig:
         bool
         """
         # get the logfile
-        logfile = self._options.get('dataverse').get('dataverse_api_logfile')
-        # create the log if it doesn't exist
-        from os.path import exists
-        if (not exists(logfile)):
-            fp = open(logfile, 'w+')
-            fp.close()
-        # otherwise, add the header
-        try:
-            with open(logfile, 'r+') as fp:
-                # create the header
-                header = '{}\t{}\t{}\t{}\t{}\n'.format('time', 'function', 'api operation', 'status', 'message')
-                # check presence of header
-                hdr = fp.readline()
-                if (hdr != header):
-                    # write the header
-                    fp.write(header)
-                # close the file
-                fp.close()
-            return True
-        except:
+        self.api_logfile = self._options.get('dataverse').get('dataverse_api_logfile')
+        if ((self.api_logfile == '') or
+            (self.api_logfile == None)):
+            print('SAEFConfig::initialize_dataverse_api_log - Error: logfile not specified')
             return False
+        # set logging status = True
+        self.api_logging = True
+        # configure logger
+        # time, function, api_operation, status, message
+        logging.basicConfig(filename=self.api_logfile,
+                    filemode='a',
+                    format='%(asctime)s\t%(message)s',
+                    datefmt='%d-%b-%y %H:%M:%S',
+                    level=logging.INFO)
+        return True
 
 class MSFTInventory (lcd.FileInventory):
     """
@@ -1379,17 +1375,17 @@ class SAEFDataset():
         Get the persistent identifier for the dataset, if any.
         A valid pid is only available if the dataset has been created on the dataverse installation.
     api_upload_datafiles : api
-        Upload the dataset datafiles using the Dataverse API.
+        Upload the dataset datafiles using the Dataverse API. Use with caution.
     direct_upload_datafiles : api 
         Upload dataset's datafiles using a direct upload approach.
     api_upload_relationships : api
-        Upload tabular relationship files, if any, using the API.
+        Upload tabular relationship files, if any, using the API. Use with caution.
     direct_upload_relationships : api
         Upload the dataset's relationship files, if any, using direct upload method.
     upload_saef_metadata : dict
         Upload or update the dataset's SAEF custom metadata block.
     publish_dataset : api, pid
-        TO DO: Publish the dataverse dataset.
+        TO DO: Publish the dataverse dataset. Note: see also scripts/publish_saef_inventory.ipynb
     log_api_message : str, str, bool, str
         Write an API response string to a log file.
     """
@@ -1411,8 +1407,6 @@ class SAEFDataset():
         self._object_osn = None
         # api logfile
         self._api_logfile = None
-        # datasets logfile
-        self._datasets_logfile = None
         
         # instance is/not initialized
         self._initd = False
@@ -1527,15 +1521,8 @@ class SAEFDataset():
         self._metadata = saefdmd.metadata
         self._saef_digital_object = saef_digital_object
         self._api_logfile = options.get('dataverse').get('dataverse_api_logfile')
+        self._api_logging = saef_project_config.api_logging
         self._object_osn = object_osn
-               
-        # ensure the logfiles can be used later
-        try:
-            with open(self._api_logfile, 'a') as fp:
-                fp.close()
-        except:
-            print('failed to open logfile: {}'.format(self._api_logfile))
-            return False
         
         self._initd = True
         return True
@@ -1561,7 +1548,6 @@ class SAEFDataset():
         # note: as of 2022/08/09, pydataverse does not support custom metadata,
         # therefore, i use the Dataset model to build elements for all but
         # the saef custom metadata--for ease of metadata creation
-        from pyDataverse.models import Dataset
         ds = Dataset()
         # populate the dataset model with metadata values
         ds.title = self._object_osn
@@ -1576,7 +1562,7 @@ class SAEFDataset():
             ds.kindOfData = self._metadata.get('dataset').get('kind_of_data')
         geospatial = self._metadata.get('dataset').get('geospatial')
         if ((not geospatial == None) or
-            (not geospatial == [])):
+            (not geospatial == [])): 
             ds.geographicCoverage = self._metadata.get('dataset').get('geospatial')
         
         # ensure that the metadata is valid
@@ -1685,7 +1671,6 @@ class SAEFDataset():
                 categories.append(tag)
 
             # create the pyDataverse datafile
-            from pyDataverse.models import Datafile
             datafile = Datafile()
             # set the metadata on the datafile
             datafile.set({'pid': pid, 'filename': filepath, 'restrict':restrict,
@@ -1860,7 +1845,6 @@ class SAEFDataset():
             return False
 
         # create the pyDataverse datafiles
-        from pyDataverse.models import Datafile
         datafiles = []
         for key in relationships.keys():           
             datafile = Datafile()
@@ -2063,10 +2047,10 @@ class SAEFDataset():
         """
         import datetime
         now = datetime.datetime.now()
-        with open(self._api_logfile, 'a') as fp:
-            str = '{}\t{}\t{}\t{}\t{}\n'.format(now, function, api_operation, status, message)
-            fp.write(str)
-        fp.close()
+        # if api logging is available, log event
+        if (self._api_logging == True): 
+            string = '{}\t{}\t{}\t{}'.format(function, api_operation, status, message)
+            logging.info(string)
         return
 
     def get_dataset_pid(self):
